@@ -1,10 +1,31 @@
 {
   "cleanUrls": true,
   "headers": [
-    { "source": "/llms.txt", "headers": [{ "key": "Content-Type", "value": "text/plain; charset=utf-8" }] }
+    {
+      "source": "/llms.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    }
   ],
   "redirects": [
-    { "source": "/ar", "destination": "/", "permanent": false },
-    { "source": "/ar/:path*", "destination": "/", "permanent": false }
+    {
+      "source": "/ar",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/ar/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/case-studies/:slug",
+      "destination": "/:slug",
+      "permanent": true
+    }
   ]
 }
