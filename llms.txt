@@ -1,0 +1,27 @@
+# Hala Shamaly
+
+> Bilingual (Arabic/English) SEO and Generative Engine Optimization (GEO) content strategist with 7+ years of experience helping B2B SaaS, FinTech and retail brands in the GCC and MENA grow organic search and get cited by AI engines such as ChatGPT, Gemini and Perplexity.
+
+## About
+- Role: SEO & GEO Content Strategy Lead (Qoyod, Riyadh, Aug 2024 to present); Senior GEO & AI Search Optimization Strategist (Forlanso, UAE, May 2026 to present)
+- Languages: Arabic (native), English (C2)
+- Markets: Saudi Arabia, UAE, Qatar and wider GCC/MENA
+- Contact: halashamali77@gmail.com · https://linkedin.com/in/halashamaly7
+
+## Services
+- [GEO & AI Search Optimization](https://halashamaly.com/#services): AI Signals architecture, llms.txt configuration, E-E-A-T frameworks
+- [Technical SEO Architecture](https://halashamaly.com/#services): audits, content silos, schema, Core Web Vitals
+- [Bilingual Content Strategy](https://halashamaly.com/#services): Arabic/English content for B2B SaaS and FinTech
+- [SEO/GEO Audits](https://halashamaly.com/#services): AI citability, technical and content audits with phased plans
+- [Workflow Automation & Reporting](https://halashamaly.com/#services): Zapier, n8n and AI-driven SEO reporting
+
+## Results
+- Qoyod: 70% organic visibility growth, 3.1M GSC clicks over 16 months, first-page rankings within 18 hours, 15,000+ new visitors
+- Signit: 3 full SERPs dominated; cited across 4+ AI search modes in the GCC
+- Forlanso (UAE): repositioned from "freelance marketplace" to Remote Workforce Management System in ChatGPT, Gemini, Claude and Perplexity (4/4 engines aligned); 52+ structured FAQs; bilingual Google Business Profile
+- Point Market (KSA): n8n marketing automation agent across 6 workstreams; automated blog on a GitHub-based site
+- Premium Logistics (Riyadh): 135-article SEO/GEO audit and home page rewrite
+
+## Case studies
+- [Qoyod: from search results to AI answers](https://halashamaly.com/case-studies/qoyod): GEO case study, Saudi Arabia (page one in under 24 hours; cited first by ChatGPT, Gemini and Google AI Mode)
+- [Forlanso: Teaching AI engines what Forlanso really is](https://halashamaly.com/case-studies/forlanso): GEO/AIO case study, UAE
