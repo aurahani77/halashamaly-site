@@ -61,7 +61,7 @@
       <svg class="mark" viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="50" fill="url(#lg)"/><path d="M31 25 V75 M69 25 V75" stroke="#EEE9FF" stroke-width="11" stroke-linecap="round"/><path class="spark" d="M50,35 Q50,50 69,50 Q50,50 50,65 Q50,50 31,50 Q50,50 50,35 Z" fill="#B9A7F5"/></svg>
       <span class="name"><b>Hala Shamaly</b><small>GEO Strategist</small></span>
     </a>
-    <ul>
+    <ul id="mnav">
       <li><a href="index.html#geo">What is GEO</a></li>
       <li><a href="index.html#process">Method</a></li>
       <li><a href="index.html#services">Services</a></li>
@@ -74,7 +74,7 @@
       </li>
       <li><a href="index.html#about">About</a></li>
     </ul>
-    <span><a class="m-cs" href="work.html">Case studies</a><a class="btn btn-lav" href="index.html#contact">Let's talk</a></span>
+    <span class="nav-r"><a class="btn btn-lav" href="index.html#contact">Let's talk</a><button class="burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="mnav"><i></i><i></i><i></i></button></span>
   </nav>
 </header>
 
@@ -234,5 +234,6 @@
   document.querySelectorAll('.rv').forEach(el => io.observe(el));
 })();
 </script>
+<script src="site.js" defer></script>
 </body>
 </html>
