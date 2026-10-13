@@ -80,8 +80,6 @@ h1{font-size:clamp(42px,6vw,76px);line-height:1.02;font-weight:800;margin:26px 0
 .answer .typed .cite{display:inline-flex;align-items:center;gap:4px;background:var(--lavl);color:var(--mid);font-weight:600;font-size:12px;border-radius:6px;padding:1px 7px;margin-left:2px}
 .caret{display:inline-block;width:2px;height:15px;background:var(--mid);vertical-align:-2px;margin-left:1px;animation:blink 1s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
-.engine-pill{position:absolute;top:10%;left:6%;background:rgba(22,12,47,.75);backdrop-filter:blur(8px);border:1px solid rgba(185,167,245,.3);color:var(--lavl);font-family:var(--mono);font-size:12px;padding:8px 12px;border-radius:12px;animation:bob 5s ease-in-out infinite}
-.engine-pill b{color:var(--mint);font-weight:500}
 @keyframes bob{50%{transform:translateY(-10px)}}
 
 /* engines marquee */
