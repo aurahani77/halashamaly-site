@@ -161,6 +161,7 @@ h1{font-size:clamp(42px,6vw,76px);line-height:1.02;font-weight:800;margin:26px 0
 .win:hover{transform:translateY(-4px);box-shadow:0 18px 40px rgba(42,26,82,.10)}
 .win strong{font-family:var(--head);font-size:38px;font-weight:700;letter-spacing:-.03em;color:var(--deep);display:block;line-height:1.1}
 .win span{font-size:14px;color:var(--muted)}
+.win span b{display:block;font:600 12px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--mid);margin-bottom:4px}
 
 /* ---------- services ---------- */
 .svc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:44px}
@@ -286,7 +287,8 @@ footer nav a:hover{color:var(--mid)}
   section{padding:80px 0}
 }
 @media (max-width:560px){
-  .steps,.skills-grid,.certs,.wins{grid-template-columns:1fr}
+  .steps,.skills-grid,.certs{grid-template-columns:1fr}
+  .win{padding:18px}.win strong{font-size:32px}.win span{font-size:13px}
   .contact{margin:0 12px 12px;border-radius:28px}
   .lockup .name small{display:none}
   .stat strong{font-size:44px}
