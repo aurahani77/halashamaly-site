@@ -99,19 +99,47 @@ h1{font-size:clamp(42px,6vw,76px);line-height:1.02;font-weight:800;margin:26px 0
 .stat>span{font-size:15px;color:#C4BAE8;font-weight:500}
 
 /* ---------- GEO vs SEO ---------- */
-.shift-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:44px}
-.shift{border-radius:26px;padding:34px;border:1px solid var(--line);background:#fff;position:relative;overflow:hidden}
-.shift h3{font-size:22px;margin:12px 0 18px}
-.shift .lbl{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.serp div{height:12px;border-radius:6px;background:#ECE9F3;margin:10px 0}
-.serp div:nth-child(odd){width:70%}
-.serp div:nth-child(even){width:92%;height:8px;background:#F3F1F8}
-.shift.new{background:var(--deep);color:#fff;border-color:var(--deep)}
-.shift.new .lbl{color:var(--lav)}
-.shift.new p{color:#D3CAF3}
-.mini-answer{background:rgba(255,255,255,.06);border:1px solid rgba(185,167,245,.25);border-radius:16px;padding:16px;font-size:14.5px;color:#E6DFFF;margin-bottom:16px}
-.mini-answer .cite{background:var(--lav);color:var(--deeper);border-radius:6px;padding:1px 7px;font-weight:600;font-size:12px}
-.shift p{color:var(--muted)}
+.sd{margin-top:44px;max-width:860px;margin-left:auto;margin-right:auto}
+.sd-tabs{display:inline-flex;padding:5px;border-radius:999px;background:var(--lavl);border:1px solid var(--line);margin-bottom:20px}
+.sd-tabs button{border:0;background:transparent;font:600 14.5px var(--sans);color:var(--muted);padding:10px 24px;min-height:44px;border-radius:999px;cursor:pointer;transition:background .25s,color .25s}
+.sd-tabs button[aria-selected="true"]{background:var(--deep);color:#fff}
+.sd-stage{display:grid;border-radius:26px;border:1px solid var(--line);background:#fff;padding:26px;overflow:hidden;transition:background .35s,border-color .35s}
+.sd.geo .sd-stage{background:var(--deep);border-color:var(--deep)}
+.sd-pane{grid-area:1/1;opacity:0;transform:translateY(8px);transition:opacity .35s,transform .35s;pointer-events:none}
+.sd-pane.on{opacity:1;transform:none;pointer-events:auto}
+.sd-pane[hidden]{display:block;visibility:hidden}
+.sd-pane.on[hidden]{visibility:visible}
+.sd-bar{display:flex;align-items:center;gap:10px;padding:12px 18px;border-radius:999px;border:1px solid var(--line);font-size:14.5px;color:var(--ink);margin-bottom:18px;background:#fff}
+.sd.geo .sd-bar{background:rgba(255,255,255,.07);border-color:rgba(185,167,245,.3);color:#E6DFFF}
+.sd-dot{width:10px;height:10px;border-radius:50%;border:2px solid var(--muted);flex:none}
+.sd-dot.ai{border:0;background:linear-gradient(135deg,var(--lav),var(--mid))}
+.sd-res{position:relative;padding:10px 0;display:grid;gap:3px}
+.sd-res i{font-style:normal;font-size:12.5px;color:var(--muted)}
+.sd-res b{font:600 16.5px var(--head);color:#3B2AA8}
+.sd-res s{display:block;height:8px;width:88%;border-radius:4px;background:#F3F1F8;text-decoration:none}
+.sd-res.faint{opacity:.45}
+.sd-res.you{margin:4px -14px;padding:12px 14px;border-radius:14px;background:var(--lavl);border:1px dashed var(--mid)}
+.sd-badge{position:absolute;right:12px;top:10px;font:600 11.5px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--mid)}
+.sd-ans{color:#E6DFFF}
+.sd-ans p{font-size:17px;line-height:1.6;color:#F1ECFF;margin-bottom:18px}
+.sd-ans mark{background:rgba(124,240,181,.18);color:var(--mint);padding:1px 6px;border-radius:6px;font-weight:600}
+.sd .cite{background:var(--lav);color:var(--deeper);border-radius:6px;padding:1px 7px;font-weight:600;font-size:12px}
+.sd-src{display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:14px;background:rgba(255,255,255,.07);border:1px solid rgba(185,167,245,.25)}
+.sd-src+.sd-src{margin-top:10px}
+.sd-src.faint{opacity:.5}
+.sd-src.faint em{color:#C4BAE8}
+.sd-src.faint .cite{background:rgba(185,167,245,.35)}
+.sd-src div{flex:1}
+.sd-src b{display:block;font-size:14.5px;color:#fff}
+.sd-src small{font-size:12.5px;color:#C4BAE8}
+.sd-src em{font:600 11.5px var(--mono);letter-spacing:.06em;text-transform:uppercase;font-style:normal;color:var(--mint)}
+.sd-cap{display:grid;margin-top:22px}
+.sd-cap-i{grid-area:1/1;opacity:0;transition:opacity .3s;pointer-events:none}
+.sd-cap-i.on{opacity:1;pointer-events:auto}
+.sd-cap h3{font-size:22px;margin-bottom:6px}
+.sd-cap p{color:var(--muted)}
+@media (max-width:560px){.sd-stage{padding:18px}.sd-ans p{font-size:16px}.sd-res.you{margin:4px -8px;padding:12px 10px}.sd-badge{position:static;margin-bottom:2px}}
+@media (prefers-reduced-motion:reduce){.sd-pane,.sd-cap-i,.sd-stage{transition:none}}
 
 /* ---------- GEO process ---------- */
 .process{background:var(--lavl)}
