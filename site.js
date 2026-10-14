@@ -1,4 +1,9 @@
 (() => {
+  const bar = document.getElementById('mcta'), tgt = document.getElementById('contact');
+  if (!bar || !tgt) return;
+  new IntersectionObserver(e => bar.classList.toggle('off', e[0].isIntersecting), { threshold: .15 }).observe(tgt);
+})();
+(() => {
   const sd = document.getElementById('sd');
   if (!sd) return;
   const tabs = sd.querySelectorAll('[role="tab"]');
