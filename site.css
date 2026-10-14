@@ -529,3 +529,23 @@ header.open .burger i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
   .sd-stage{padding:16px}
   footer{padding-bottom:96px}
 }
+
+/* ---------- compact SEO vs GEO demo ---------- */
+.sd{max-width:620px;margin-top:32px}
+.sd-tabs{margin-bottom:14px}
+.sd-tabs button{font-size:13.5px;padding:8px 18px;min-height:40px}
+.sd-stage{border-radius:20px;padding:18px}
+.sd-bar{padding:9px 14px;font-size:13.5px;margin-bottom:10px}
+.sd-res{padding:7px 0}
+.sd-res i{font-size:11.5px}
+.sd-res b{font-size:15px}
+.sd-res s{display:none}
+.sd-res.you{margin:2px -10px;padding:9px 10px}
+.sd-badge{font-size:10.5px;top:8px;right:10px}
+.sd-ans p{font-size:15px;margin-bottom:12px}
+.sd-src{padding:9px 12px}
+.sd-src b{font-size:13.5px}
+.sd-src small{font-size:11.5px}
+.sd-cap{margin-top:16px}
+.sd-cap h3{font-size:18px}
+.sd-cap p{font-size:14.5px}
