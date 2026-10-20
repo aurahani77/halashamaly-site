@@ -24,3 +24,24 @@
 - [All GEO case studies](https://halashamaly.com/work)
 - [Qoyod: from search results to AI answers](https://halashamaly.com/qoyod): GEO case study, Saudi Arabia (page one in under 24 hours; cited first by ChatGPT, Gemini and Google AI Mode)
 - [Forlanso: Teaching AI engines what Forlanso really is](https://halashamaly.com/forlanso): GEO/AIO case study, UAE
+
+## Blog and glossary (Arabic)
+- [Blog](https://halashamaly.com/blog): Arabic articles on GEO and AI search visibility
+- [ما هو GEO؟ وما الفرق بينه وبين SEO؟](https://halashamaly.com/blog/what-is-geo-vs-seo)
+- [كيف أصبحت Qoyod المصدر الذي يقتبسه ChatGPT في القوالب المحاسبية](https://halashamaly.com/blog/how-qoyod-became-the-source)
+- [ملف llms.txt: ما هو؟ وهل تحتاجه علامتك؟](https://halashamaly.com/blog/llms-txt-guide)
+- [GEO glossary](https://halashamaly.com/glossary): short Arabic definitions, one page per term
+  - [GEO](https://halashamaly.com/glossary/geo): تحسين محركات الإجابة التوليدية
+  - [AEO](https://halashamaly.com/glossary/aeo): تحسين محركات الإجابة
+  - [SEO](https://halashamaly.com/glossary/seo): تحسين محركات البحث
+  - [LLM](https://halashamaly.com/glossary/llm): النموذج اللغوي الكبير
+  - [AI Overviews](https://halashamaly.com/glossary/ai-overviews): نظرة الذكاء الاصطناعي العامة
+  - [AI Mode](https://halashamaly.com/glossary/ai-mode): وضع الذكاء الاصطناعي
+  - [Citation](https://halashamaly.com/glossary/citation): الاقتباس
+  - [Entity](https://halashamaly.com/glossary/entity): الكيان
+  - [Schema Markup](https://halashamaly.com/glossary/schema): البيانات المنظمة
+  - [llms.txt](https://halashamaly.com/glossary/llms-txt): ملف llms.txt
+  - [E-E-A-T](https://halashamaly.com/glossary/eeat): الخبرة والاختصاص والمرجعية والثقة
+  - [RAG](https://halashamaly.com/glossary/rag): التوليد المعزّز بالاسترجاع
+  - [Zero-click Search](https://halashamaly.com/glossary/zero-click): البحث بدون نقر
+  - [Knowledge Graph](https://halashamaly.com/glossary/knowledge-graph): الرسم المعرفي
