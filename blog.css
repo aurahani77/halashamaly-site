@@ -92,3 +92,22 @@ pre.code code{background:none;color:inherit;padding:0;font-size:inherit}
   .bl-grid{grid-template-columns:1fr}
   .gl-banner{padding:20px}
 }
+
+/* glossary index and term pages */
+.gl-tools{max-width:980px;margin:0 auto 22px;display:grid;gap:14px}
+.gl-chips{display:flex;flex-wrap:wrap;gap:8px}
+.gl-chip{font:600 14.5px "IBM Plex Sans Arabic",var(--sans);padding:9px 18px;border-radius:999px;border:1px solid var(--line);background:#fff;color:var(--deep);cursor:pointer;min-height:42px}
+.gl-chip.on{background:var(--deep);color:#fff;border-color:var(--deep)}
+.gl-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;max-width:980px;margin:0 auto}
+.gl-card{display:flex;flex-direction:column;gap:6px;background:#fff;border:1px solid var(--line);border-radius:20px;padding:20px 22px;text-decoration:none;color:var(--ink);transition:transform .25s,box-shadow .25s,border-color .25s}
+.gl-card:hover{transform:translateY(-3px);box-shadow:0 14px 32px rgba(42,26,82,.09);border-color:#CFC2F5}
+.gl-card[hidden]{display:none}
+.gl-card h3{font-size:19px;line-height:1.5;color:var(--deep);margin:0}
+.gl-card p{font-size:15px;line-height:1.85;color:var(--muted);margin:0}
+.gl-card .gl-en{align-self:flex-start}
+.gl-en-h{font-size:14px!important;vertical-align:middle}
+.cs-hero .gl-en{background:rgba(185,167,245,.18);color:var(--lavl)}
+.gl-cta{max-width:980px;margin:36px auto 0}
+.gl-cta .post-cta{margin-top:0}
+.related .gl-grid{max-width:none}
+@media (max-width:700px){.gl-grid{grid-template-columns:1fr}}
