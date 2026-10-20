@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>مدونة Hala Shamaly</title>
+  <link>https://halashamaly.com/blog</link>
+  <description>مقالات عربية عن GEO وظهور العلامات في إجابات الذكاء الاصطناعي.</description>
+  <language>ar</language>
+  <item>
+    <title>ما هو GEO؟ وما الفرق بينه وبين SEO؟</title>
+    <link>https://halashamaly.com/blog/what-is-geo-vs-seo</link>
+    <guid>https://halashamaly.com/blog/what-is-geo-vs-seo</guid>
+    <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    <description>GEO هو تحسين علامتك لتُذكر وتُقتبس داخل إجابات ChatGPT وGemini وGoogle. شرح الفرق بينه وبين SEO، وما الذي تفعله علامتك من هذا الأسبوع.</description>
+  </item>
+  <item>
+    <title>كيف أصبحت Qoyod المصدر الذي يقتبسه ChatGPT في القوالب المحاسبية</title>
+    <link>https://halashamaly.com/blog/how-qoyod-became-the-source</link>
+    <guid>https://halashamaly.com/blog/how-qoyod-became-the-source</guid>
+    <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    <description>مدونة غنية بالمعرفة لكن الذكاء الاصطناعي لم يجد فيها جوابًا يقتبسه. كيف أعدنا بناء قوالب Qoyod لتصل إلى الصفحة الأولى في أقل من 24 ساعة.</description>
+  </item>
+  <item>
+    <title>ملف llms.txt: ما هو؟ وهل تحتاجه علامتك؟</title>
+    <link>https://halashamaly.com/blog/llms-txt-guide</link>
+    <guid>https://halashamaly.com/blog/llms-txt-guide</guid>
+    <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    <description>شرح ملف llms.txt المقترح لإرشاد نماذج الذكاء الاصطناعي إلى أهم صفحات موقعك: ما شكله، وكيف تكتبه، وما الذي يفعله فعلًا وما الذي لا يفعله.</description>
+  </item>
+</channel>
+</rss>
