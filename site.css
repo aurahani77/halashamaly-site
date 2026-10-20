@@ -549,3 +549,5 @@ header.open .burger i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
 .sd-cap{margin-top:16px}
 .sd-cap h3{font-size:18px}
 .sd-cap p{font-size:14.5px}
+
+.case-feature .pj-logo{width:56px;height:56px;border-radius:14px;object-fit:cover;background:#fff;margin:0 0 14px}
