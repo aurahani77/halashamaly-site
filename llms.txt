@@ -45,3 +45,30 @@
   - [RAG](https://halashamaly.com/glossary/rag): التوليد المعزّز بالاسترجاع
   - [Zero-click Search](https://halashamaly.com/glossary/zero-click): البحث بدون نقر
   - [Knowledge Graph](https://halashamaly.com/glossary/knowledge-graph): الرسم المعرفي
+
+## Arabic version
+- [Home (Arabic)](https://halashamaly.com/ar/)
+- [Qoyod case study (Arabic)](https://halashamaly.com/ar/qoyod)
+- [Forlanso case study (Arabic)](https://halashamaly.com/ar/forlanso)
+- [Case studies (Arabic)](https://halashamaly.com/ar/work)
+
+## Blog and glossary (English)
+- [Blog](https://halashamaly.com/en/blog): articles on GEO and AI search visibility
+- [What Is GEO? And How Is It Different From SEO?](https://halashamaly.com/en/blog/what-is-geo-vs-seo)
+- [How Qoyod Became the Source ChatGPT Cites for Accounting Templates](https://halashamaly.com/en/blog/how-qoyod-became-the-source)
+- [llms.txt: What Is It, and Does Your Brand Need One?](https://halashamaly.com/en/blog/llms-txt-guide)
+- [GEO glossary](https://halashamaly.com/en/glossary): short definitions, one page per term
+  - [GEO](https://halashamaly.com/en/glossary/geo): Generative Engine Optimization
+  - [AEO](https://halashamaly.com/en/glossary/aeo): Answer Engine Optimization
+  - [SEO](https://halashamaly.com/en/glossary/seo): Search Engine Optimization
+  - [LLM](https://halashamaly.com/en/glossary/llm): Large Language Model
+  - [AI Overviews](https://halashamaly.com/en/glossary/ai-overviews): AI Overviews
+  - [AI Mode](https://halashamaly.com/en/glossary/ai-mode): AI Mode
+  - [Citation](https://halashamaly.com/en/glossary/citation): Citation
+  - [Entity](https://halashamaly.com/en/glossary/entity): Entity
+  - [Schema Markup](https://halashamaly.com/en/glossary/schema): Schema Markup
+  - [llms.txt](https://halashamaly.com/en/glossary/llms-txt): llms.txt file
+  - [E-E-A-T](https://halashamaly.com/en/glossary/eeat): Experience, Expertise, Authoritativeness, Trustworthiness
+  - [RAG](https://halashamaly.com/en/glossary/rag): Retrieval-Augmented Generation
+  - [Zero-click Search](https://halashamaly.com/en/glossary/zero-click): Zero-click Search
+  - [Knowledge Graph](https://halashamaly.com/en/glossary/knowledge-graph): Knowledge Graph

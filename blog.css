@@ -111,3 +111,8 @@ pre.code code{background:none;color:inherit;padding:0;font-size:inherit}
 .gl-cta .post-cta{margin-top:0}
 .related .gl-grid{max-width:none}
 @media (max-width:700px){.gl-grid{grid-template-columns:1fr}}
+
+/* English blog and glossary */
+.post.en p,.post.en li{line-height:1.85;font-size:18.5px}
+.post.en h2{font-family:var(--head)}
+.cs-hero .wrap h1{max-width:920px}
