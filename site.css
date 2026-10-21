@@ -563,3 +563,11 @@ header.open .burger i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
   .lang-sw span{padding:6px 9px;font-size:12px}
   .nav-r.has-lang .btn{display:none}
 }
+
+/* keep the header on one line when the nav has many items */
+.nav ul a,.nav .btn,.lockup .name b{white-space:nowrap}
+@media (min-width:961px) and (max-width:1220px){
+  .nav ul{gap:18px}
+  .nav ul a{font-size:13.5px}
+  .lockup .name small{display:none}
+}
