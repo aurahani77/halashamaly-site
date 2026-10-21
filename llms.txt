@@ -45,3 +45,9 @@
   - [RAG](https://halashamaly.com/glossary/rag): التوليد المعزّز بالاسترجاع
   - [Zero-click Search](https://halashamaly.com/glossary/zero-click): البحث بدون نقر
   - [Knowledge Graph](https://halashamaly.com/glossary/knowledge-graph): الرسم المعرفي
+
+## Arabic version
+- [Home (Arabic)](https://halashamaly.com/ar/)
+- [Qoyod case study (Arabic)](https://halashamaly.com/ar/qoyod)
+- [Forlanso case study (Arabic)](https://halashamaly.com/ar/forlanso)
+- [Case studies (Arabic)](https://halashamaly.com/ar/work)
