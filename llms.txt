@@ -24,6 +24,8 @@
 - [All GEO case studies](https://halashamaly.com/work)
 - [Qoyod: from search results to AI answers](https://halashamaly.com/qoyod): GEO case study, Saudi Arabia (page one in under 24 hours; cited first by ChatGPT, Gemini and Google AI Mode)
 - [Forlanso: Teaching AI engines what Forlanso really is](https://halashamaly.com/forlanso): GEO/AIO case study, UAE
+- [Point Market: a search presence for a chain that grew from one branch to 37](https://halashamaly.com/point-market): website, SEO and GEO case study, Saudi Arabia
+- [Pioneer Group: website content and a blog for a China sourcing agent](https://halashamaly.com/pioneer-group): content and SEO case study, Yiwu, China
 
 ## Blog and glossary (Arabic)
 - [Blog](https://halashamaly.com/blog): Arabic articles on GEO and AI search visibility
@@ -50,6 +52,8 @@
 - [Home (Arabic)](https://halashamaly.com/ar/)
 - [Qoyod case study (Arabic)](https://halashamaly.com/ar/qoyod)
 - [Forlanso case study (Arabic)](https://halashamaly.com/ar/forlanso)
+- [Point Market case study (Arabic)](https://halashamaly.com/ar/point-market)
+- [Pioneer Group case study (Arabic)](https://halashamaly.com/ar/pioneer-group)
 - [Case studies (Arabic)](https://halashamaly.com/ar/work)
 
 ## Blog and glossary (English)
@@ -57,6 +61,9 @@
 - [What Is GEO? And How Is It Different From SEO?](https://halashamaly.com/en/blog/what-is-geo-vs-seo)
 - [How Qoyod Became the Source ChatGPT Cites for Accounting Templates](https://halashamaly.com/en/blog/how-qoyod-became-the-source)
 - [llms.txt: What Is It, and Does Your Brand Need One?](https://halashamaly.com/en/blog/llms-txt-guide)
+- [Does ChatGPT Mention Your Brand? A 10-Minute AI Visibility Check](https://halashamaly.com/en/blog/ai-visibility-check)
+- [Answer-First Writing: How to Structure Content So AI Can Quote It](https://halashamaly.com/en/blog/answer-first-content)
+- [Why AI Gets Your Brand Wrong, and How to Fix It](https://halashamaly.com/en/blog/why-ai-gets-your-brand-wrong)
 - [GEO glossary](https://halashamaly.com/en/glossary): short definitions, one page per term
   - [GEO](https://halashamaly.com/en/glossary/geo): Generative Engine Optimization
   - [AEO](https://halashamaly.com/en/glossary/aeo): Answer Engine Optimization
