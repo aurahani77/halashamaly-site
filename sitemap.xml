@@ -1,49 +1,365 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://halashamaly.com/</loc><lastmod>2026-10-06</lastmod></url>
-  <url><loc>https://halashamaly.com/forlanso</loc><lastmod>2026-10-07</lastmod></url>
-  <url><loc>https://halashamaly.com/qoyod</loc><lastmod>2026-10-07</lastmod></url>
-  <url><loc>https://halashamaly.com/work</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://halashamaly.com/blog</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/blog/what-is-geo-vs-seo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/blog/how-qoyod-became-the-source</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/blog/llms-txt-guide</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/geo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/aeo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/seo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/llm</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/ai-overviews</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/ai-mode</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/citation</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/entity</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/schema</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/llms-txt</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/eeat</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/rag</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/zero-click</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/glossary/knowledge-graph</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/ar/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/ar/qoyod</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://halashamaly.com/ar/forlanso</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://halashamaly.com/ar/work</loc><lastmod>2026-10-21</lastmod></url>
-  <url><loc>https://halashamaly.com/en/blog</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/blog/what-is-geo-vs-seo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/blog/how-qoyod-became-the-source</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/blog/llms-txt-guide</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/geo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/aeo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/seo</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/llm</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/ai-overviews</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/ai-mode</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/citation</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/entity</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/schema</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/llms-txt</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/eeat</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/rag</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/zero-click</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://halashamaly.com/en/glossary/knowledge-graph</loc><lastmod>2026-10-20</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://halashamaly.com/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/ar/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/qoyod</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/qoyod"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/qoyod"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/qoyod"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/ar/qoyod</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/qoyod"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/qoyod"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/qoyod"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/forlanso</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/forlanso"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/forlanso"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/forlanso"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/ar/forlanso</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/forlanso"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/forlanso"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/forlanso"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/work</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/work"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/work"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/work"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/ar/work</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/work"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/work"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/work"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/point-market</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/point-market"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/point-market"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/point-market"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/ar/point-market</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/point-market"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/point-market"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/point-market"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/pioneer-group</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/pioneer-group"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/pioneer-group"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/pioneer-group"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/ar/pioneer-group</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/pioneer-group"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/pioneer-group"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/pioneer-group"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/blog</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/blog</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/blog/what-is-geo-vs-seo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog/what-is-geo-vs-seo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog/what-is-geo-vs-seo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog/what-is-geo-vs-seo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/blog/what-is-geo-vs-seo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog/what-is-geo-vs-seo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog/what-is-geo-vs-seo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog/what-is-geo-vs-seo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/blog/how-qoyod-became-the-source</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog/how-qoyod-became-the-source"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog/how-qoyod-became-the-source"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog/how-qoyod-became-the-source"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/blog/how-qoyod-became-the-source</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog/how-qoyod-became-the-source"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog/how-qoyod-became-the-source"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog/how-qoyod-became-the-source"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/blog/llms-txt-guide</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog/llms-txt-guide"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog/llms-txt-guide"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog/llms-txt-guide"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/blog/llms-txt-guide</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/blog/llms-txt-guide"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/blog/llms-txt-guide"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/blog/llms-txt-guide"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/geo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/geo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/geo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/geo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/geo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/geo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/geo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/geo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/aeo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/aeo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/aeo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/aeo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/aeo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/aeo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/aeo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/aeo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/seo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/seo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/seo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/seo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/seo</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/seo"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/seo"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/seo"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/llm</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/llm"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/llm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/llm"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/llm</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/llm"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/llm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/llm"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/ai-overviews</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/ai-overviews"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/ai-overviews"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/ai-overviews"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/ai-overviews</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/ai-overviews"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/ai-overviews"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/ai-overviews"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/ai-mode</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/ai-mode"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/ai-mode"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/ai-mode"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/ai-mode</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/ai-mode"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/ai-mode"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/ai-mode"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/citation</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/citation"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/citation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/citation"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/citation</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/citation"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/citation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/citation"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/entity</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/entity"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/entity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/entity"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/entity</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/entity"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/entity"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/entity"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/schema</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/schema"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/schema"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/schema"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/schema</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/schema"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/schema"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/schema"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/llms-txt</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/llms-txt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/llms-txt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/llms-txt"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/llms-txt</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/llms-txt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/llms-txt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/llms-txt"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/eeat</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/eeat"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/eeat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/eeat"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/eeat</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/eeat"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/eeat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/eeat"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/rag</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/rag"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/rag"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/rag"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/rag</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/rag"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/rag"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/rag"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/zero-click</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/zero-click"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/zero-click"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/zero-click"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/zero-click</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/zero-click"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/zero-click"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/zero-click"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/glossary/knowledge-graph</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/knowledge-graph"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/knowledge-graph"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/knowledge-graph"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/glossary/knowledge-graph</loc>
+    <lastmod>2026-10-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/en/glossary/knowledge-graph"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/glossary/knowledge-graph"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/en/glossary/knowledge-graph"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/blog/ai-visibility-check</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/blog/answer-first-content</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/en/blog/why-ai-gets-your-brand-wrong</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
 </urlset>

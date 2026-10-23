@@ -573,3 +573,22 @@ header.open .burger i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
 }
 
 .wins .win:last-child:nth-child(odd){grid-column:1/-1}
+
+/* extra case study themes */
+.theme-point{--deeper:#1A1608;--deep:#3A2F06;--mid:#B88A00;--lav:#F8C810;--lavl:#FFF7D6;--line:#F1E2A0;--paper:#FFFDF4;--muted:#6B6235;--ink:#231D06;--grad:linear-gradient(100deg,#FDE68A,#F8C810 50%,#FEF3C7 100%)}
+.theme-point .on-light .g{background:linear-gradient(100deg,var(--deep),var(--mid),var(--deep));-webkit-background-clip:text;background-clip:text;background-size:200% auto}
+.theme-point .contact{background:linear-gradient(135deg,var(--deep),var(--deeper) 75%)}
+.theme-point .nav ul a{color:#fff}
+.theme-point .res-card strong{background:linear-gradient(180deg,#fff 30%,var(--lav));-webkit-background-clip:text;background-clip:text}
+.theme-pioneer{--deeper:#0F1433;--deep:#181F50;--mid:#5B8C3A;--lav:#8FC25F;--lavl:#EEF6E6;--line:#D5E7C3;--paper:#F8FBF4;--muted:#55634A;--ink:#121A38;--grad:linear-gradient(100deg,#C9E7AE,#8FC25F 50%,#E4F2D6 100%)}
+.theme-pioneer .on-light .g{background:linear-gradient(100deg,var(--deep),var(--mid),var(--deep));-webkit-background-clip:text;background-clip:text;background-size:200% auto}
+.theme-pioneer .contact{background:linear-gradient(135deg,var(--deep),var(--deeper) 75%)}
+.theme-pioneer .nav ul a{color:#fff}
+.theme-pioneer .res-card strong{background:linear-gradient(180deg,#fff 30%,var(--lav));-webkit-background-clip:text;background-clip:text}
+.theme-point header.scrolled{background:rgba(26,22,8,.85)}
+.theme-pioneer header.scrolled{background:rgba(15,20,51,.85)}
+.theme-point .cs-hero{background:radial-gradient(900px 520px at 88% -10%,rgba(248,200,16,.28),transparent 60%),var(--deeper)}
+.theme-pioneer .cs-hero{background:radial-gradient(900px 520px at 88% -10%,rgba(143,194,95,.3),transparent 60%),radial-gradient(800px 500px at 70% 0%,rgba(24,31,80,.8),transparent 65%),var(--deeper)}
+.theme-point .btn-lav,.theme-pioneer .btn-lav{color:var(--deeper)}
+.cs-switch .to-point{background:linear-gradient(135deg,#B88A00,#1A1608)}
+.cs-switch .to-pioneer{background:linear-gradient(135deg,#5B8C3A,#0F1433)}
