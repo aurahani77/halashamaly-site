@@ -592,3 +592,11 @@ header.open .burger i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
 .theme-point .btn-lav,.theme-pioneer .btn-lav{color:var(--deeper)}
 .cs-switch .to-point{background:linear-gradient(135deg,#B88A00,#1A1608)}
 .cs-switch .to-pioneer{background:linear-gradient(135deg,#5B8C3A,#0F1433)}
+@media (max-width:420px){
+  .nav-r{gap:6px}
+  .lang-sw span{padding:6px 8px}
+  .lockup{gap:8px}
+  .lockup .name b{font-size:15.5px}
+  .burger{flex:none}
+}
+footer nav{display:flex;flex-wrap:wrap;gap:6px 0;align-items:center}
