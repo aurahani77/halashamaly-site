@@ -12,13 +12,13 @@
     s3: 'جرّب كل سؤال بنفسك', s3h: 'افتح السؤال، شوف الجواب، وارجع سجّل هنا. ما نرسل شي لأي أحد.',
     g: 'ابحث في Google', gb: 'افتح السؤال في Google', gq: 'نشاطك جاء رقم كام بالنتائج؟', gnone: 'مش بأول 10',
     c: 'اسأل ChatGPT', cb: 'افتح السؤال في ChatGPT', cq: 'شو كان الرد؟',
-    m: 'اسأل Gemini (اختياري)', mb: 'افتح Gemini', copy: 'انسخ السؤال', copied: 'تم النسخ',
+    m: 'اسأل Google AI Mode أو Gemini (اختياري)', mb: 'افتح في Google AI Mode', gem: 'Gemini: انسخ السؤال', copy: 'انسخ السؤال', copied: 'تم النسخ، الصقه في Gemini',
     me: 'ذكر اسم نشاطي', others: 'ذكر منافسين فقط', none: 'ما ذكر أسماء', comp: 'من ظهر بدلك؟ (اختياري)',
     done: 'خلصت', of: 'من', q: 'سؤال', go3: 'شوف النتيجة', needOne: 'سجّل نتيجة سؤال واحد على الأقل (Google أو ChatGPT).',
     s4: 'نتيجتك', mentioned: 'ذُكر نشاطك في', ans: 'إجابات ذكاء اصطناعي', outOf: 'من',
     lv: ['غالبًا العميل اللي يسأل الذكاء الاصطناعي ما يشوفك الآن. وهذا قابل للتغيير.', 'تظهر أحيانًا. فيه فرص واضحة تكسبها.', 'ظهورك جيد. المهم تحافظ عليه وتتابعه.'],
     gap: 'ظاهر في Google لكنك غائب عن الذكاء الاصطناعي', gapH: 'هذي أسهل فرصة: بدأت تُعرف، ويبقى أن يفهمك الذكاء الاصطناعي.', nogap: 'ما لقينا أسئلة بهذا الوصف حتى الآن.',
-    tbl: ['السؤال', 'Google', 'ChatGPT', 'Gemini'], comps: 'منافسون ظهروا بإجابات الذكاء الاصطناعي',
+    tbl: ['السؤال', 'Google', 'ChatGPT', 'AI Mode / Gemini'], comps: 'منافسون ظهروا بإجابات الذكاء الاصطناعي',
     todo: 'ماذا تعمل الآن؟',
     acts: [
       ['اكتب جوابًا مباشرًا لكل سؤال غبت عنه', 'في موقعك، اكتب صفحة أو فقرة تجاوب السؤال نفسه من أول سطر (مثلًا: «أفضل {service} في {city} يعتمد على...») ثم السعر والموقع وساعات العمل.'],
@@ -30,7 +30,12 @@
     ltitle: 'تبي أختبر نشاطك بشكل كامل وأعطيك خطة واضحة؟', ltext: 'أختبر 30 سؤالًا في ChatGPT وGemini وGoogle، وأرسل لك أين تظهر ومن ينافسك وماذا تعدّل أولًا.',
     name: 'الاسم', email: 'البريد الإلكتروني', wa: 'واتساب', consent: 'أوافق على التواصل معي بشأن هذه النتيجة.', privacy: 'إشعار الخصوصية',
     send: 'أرسل لي التفاصيل', sending: 'جارٍ الإرسال...', sent: 'وصلتني بياناتك. سأتواصل معك قريبًا.', err: 'تعذر الإرسال. حاول مرة أخرى.', need: 'اكتب اسمك وبريدك أو واتساب، وفعّل خانة الموافقة.',
-    reset: 'ابدأ من جديد', save: 'إجاباتك تبقى في هذا المتصفح فقط.'
+    reset: 'ابدأ من جديد', save: 'إجاباتك تبقى في هذا المتصفح فقط.',
+    helpLine: 'محتار بالنتيجة؟', helpLink: 'اسألني على واتساب',
+    ctaT: 'ماذا بعد؟ خلّنا نحسّن ظهورك', ctaP: 'أساعدك تكتب الصفحات التي تغيب عنها، وتوحّد صورة نشاطك على الإنترنت، وأتابع معك النتيجة كل شهر.',
+    ctaWa: 'أرسل لي نتيجتك على واتساب', ctaMail: 'أو راسلني بالبريد',
+    waMsg: 'مرحبًا هالة، جربت اختبار ظهور النشاط. نشاطي: {biz} ({service}) في {city}. ذُكر نشاطي في {m} من {t} إجابات ذكاء اصطناعي. أحتاج استشارة لتحسين ظهوري.',
+    mailSub: 'استشارة: ظهور نشاطي بالذكاء الاصطناعي'
   } : {
     steps: ['Your business', 'Customer questions', 'The test', 'Result'],
     s1: 'What is your business?', s1h: 'In two minutes, find out: when a customer asks Google or ChatGPT about your service, does your name show up? No technical knowledge needed.',
@@ -40,13 +45,13 @@
     s3: 'Try each question yourself', s3h: 'Open the question, see the answer, come back and record it here. Nothing is sent to anyone.',
     g: 'Search on Google', gb: 'Open the question on Google', gq: 'Where did your business rank?', gnone: 'Not in the first 10',
     c: 'Ask ChatGPT', cb: 'Open the question in ChatGPT', cq: 'What did it say?',
-    m: 'Ask Gemini (optional)', mb: 'Open Gemini', copy: 'Copy the question', copied: 'Copied',
+    m: 'Ask Google AI Mode or Gemini (optional)', mb: 'Open in Google AI Mode', gem: 'Gemini: copy the question', copy: 'Copy the question', copied: 'Copied, paste it in Gemini',
     me: 'Named my business', others: 'Named only others', none: 'Named nobody', comp: 'Who appeared instead? (optional)',
     done: 'Done', of: 'of', q: 'questions', go3: 'See my result', needOne: 'Record at least one result (Google or ChatGPT).',
     s4: 'Your result', mentioned: 'Your business was named in', ans: 'AI answers', outOf: 'of',
     lv: ['Right now, a customer asking AI probably does not see you. That can change.', 'You show up sometimes. There are clear chances to win.', 'Your visibility is good. Keep it up and keep checking.'],
     gap: 'Visible on Google but missing from AI answers', gapH: 'This is the easiest win: you are already known, AI just needs to understand you.', nogap: 'No questions like that so far.',
-    tbl: ['Question', 'Google', 'ChatGPT', 'Gemini'], comps: 'Competitors named in AI answers',
+    tbl: ['Question', 'Google', 'ChatGPT', 'AI Mode / Gemini'], comps: 'Competitors named in AI answers',
     todo: 'What to do now',
     acts: [
       ['Write a direct answer for every question you missed', 'On your website, write a page or paragraph that answers the same question in its first line (for example: "The best {service} in {city} depends on...") then price, location and opening hours.'],
@@ -58,7 +63,12 @@
     ltitle: 'Want me to test your business fully and give you a clear plan?', ltext: 'I test 30 questions in ChatGPT, Gemini and Google, and send you where you appear, who competes with you and what to fix first.',
     name: 'Name', email: 'Email', wa: 'WhatsApp', consent: 'I agree to be contacted about this result.', privacy: 'Privacy notice',
     send: 'Send me the details', sending: 'Sending...', sent: 'Got your details. I will contact you soon.', err: 'Could not send. Please try again.', need: 'Add your name, an email or WhatsApp, and tick the consent box.',
-    reset: 'Start over', save: 'Your answers stay in this browser only.'
+    reset: 'Start over', save: 'Your answers stay in this browser only.',
+    helpLine: 'Not sure about the result?', helpLink: 'Ask me on WhatsApp',
+    ctaT: 'What next? Let us improve your visibility', ctaP: 'I help you write the pages you are missing, make your business look the same everywhere online, and follow up on the result every month.',
+    ctaWa: 'Send me my result on WhatsApp', ctaMail: 'Or email me',
+    waMsg: 'Hi Hala, I tried the business visibility test. My business: {biz} ({service}) in {city}. It was named in {m} of {t} AI answers. I need advice to improve my visibility.',
+    mailSub: 'Consultation: my business visibility in AI'
   };
   const KEY = 'vt_v1_' + lang;
   const esc = s => String(s || '').replace(/[&<>"]/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m]));
@@ -66,8 +76,10 @@
   let S; try { S = JSON.parse(localStorage.getItem(KEY) || 'null') || blank(); } catch (e) { S = blank(); }
   const save = () => { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} };
   const fill = t => t.replace(/\{service\}/g, S.service || '').replace(/\{city\}/g, S.city || '');
-  const links = q => ({ g: 'https://www.google.com/search?q=' + encodeURIComponent(q), c: 'https://chatgpt.com/?q=' + encodeURIComponent(q), m: 'https://gemini.google.com/app' });
+  const links = q => ({ g: 'https://www.google.com/search?q=' + encodeURIComponent(q), c: 'https://chatgpt.com/?q=' + encodeURIComponent(q), m: 'https://www.google.com/search?udm=50&q=' + encodeURIComponent(q), gem: 'https://gemini.google.com/app' });
   const sel = () => S.qs.filter(x => x.on);
+  const WA = '972595217725', MAIL = 'halashamali77@gmail.com';
+  const wa = text => 'https://wa.me/' + WA + (text ? '?text=' + encodeURIComponent(text) : '');
 
   const stepper = () => `<ol class="vt-steps">${T.steps.map((s, i) => `<li class="${i === S.step ? 'on' : i < S.step ? 'done' : ''}"><b>${i + 1}</b><span>${s}</span></li>`).join('')}</ol>`;
   const view = {
@@ -94,12 +106,12 @@
         return `<div class="vt-card"><div class="vt-qt"><b>${k + 1}.</b> ${esc(x.t)}</div>
           <div class="vt-eng"><h4><i>1</i> ${T.g}</h4><a class="vt-btn sm" href="${L.g}" target="_blank" rel="noopener">${T.gb} ↗</a><p>${T.gq}</p>${seg('g', pos, pos.map(p => p === 'none' ? T.gnone : p))}</div>
           <div class="vt-eng"><h4><i>2</i> ${T.c}</h4><a class="vt-btn sm" href="${L.c}" target="_blank" rel="noopener">${T.cb} ↗</a><button type="button" class="vt-btn ghost sm" data-copy="${k}">${T.copy}</button><p>${T.cq}</p>${seg('c', ['me', 'others', 'none'], [T.me, T.others, T.none])}</div>
-          <div class="vt-eng"><h4><i>3</i> ${T.m}</h4><button type="button" class="vt-btn ghost sm" data-copy="${k}" data-open="${L.m}">${T.copy} + ${T.mb} ↗</button>${seg('m', ['me', 'others', 'none'], [T.me, T.others, T.none])}</div>
+          <div class="vt-eng"><h4><i>3</i> ${T.m}</h4><a class="vt-btn sm" href="${L.m}" target="_blank" rel="noopener">${T.mb} ↗</a><button type="button" class="vt-btn ghost sm" data-copy="${k}" data-open="${L.gem}">${T.gem} ↗</button>${seg('m', ['me', 'others', 'none'], [T.me, T.others, T.none])}</div>
           <label class="vt-comp">${T.comp}<input type="text" data-k="${k}" data-comp value="${esc(x.comp)}"></label></div>`;
       }).join('');
       const done = sel().filter(x => x.g || x.c).length;
       return `<h3>${T.s3}</h3><p class="vt-h">${T.s3h}</p><div class="vt-prog"><span>${T.done} ${done} ${T.of} ${sel().length} ${T.q}</span><div><i style="width:${sel().length ? Math.round(done / sel().length * 100) : 0}%"></i></div></div>${cards}
-        <div class="vt-actions"><button class="vt-btn ghost" id="v-back">${T.back}</button><button class="vt-btn" id="v-go3">${T.go3}</button></div><p class="vt-msg bad" id="v-msg"></p>`;
+        <div class="vt-actions"><button class="vt-btn ghost" id="v-back">${T.back}</button><button class="vt-btn" id="v-go3">${T.go3}</button></div><p class="vt-msg bad" id="v-msg"></p><p class="vt-help">${T.helpLine} <a href="${wa('')}" target="_blank" rel="noopener">${T.helpLink}</a></p>`;
     },
     3() {
       const qs = sel(); let m = 0, t = 0; const gaps = [], comps = {};
@@ -121,11 +133,13 @@
         <label class="vt-consent full"><input type="checkbox" id="vt-consent"><span>${T.consent} <a href="${root.dataset.privacy || 'privacy.html'}" target="_blank" rel="noopener">${T.privacy}</a></span></label>
         <div class="full"><button class="vt-btn" type="submit" id="vt-send">${T.send}</button></div><p class="vt-msg full" id="vt-msg" role="status"></p></form></div>` : '';
       root._res = { m, t, pct, gaps, comps: cl, rows: qs.length };
+      const msg = T.waMsg.replace('{biz}', S.biz || '-').replace('{service}', S.service).replace('{city}', S.city).replace('{m}', m).replace('{t}', t);
+      const cta = `<div class="vt-cta"><h3>${T.ctaT}</h3><p>${T.ctaP}</p><div class="vt-actions"><a class="vt-btn wa" href="${wa(msg)}" target="_blank" rel="noopener">${T.ctaWa}</a><a class="vt-btn ghost" href="mailto:${MAIL}?subject=${encodeURIComponent(T.mailSub)}&body=${encodeURIComponent(msg)}">${T.ctaMail}</a></div></div>`;
       return `<h3>${T.s4}</h3><div class="vt-score"><div class="vt-ring" style="--p:${pct}"><b>${t ? pct + '%' : '–'}</b></div><div><strong>${T.mentioned} ${m} ${T.outOf} ${t} ${T.ans}</strong><p>${t ? lv : ''}</p></div></div>
         <div class="vt-gap"><h4>${T.gap}</h4><p>${T.gapH}</p>${gaps.length ? '<ul>' + gaps.map(g => `<li>${esc(g)}</li>`).join('') + '</ul>' : `<em>${T.nogap}</em>`}</div>
         <div class="vt-tblw"><table class="vt-tbl"><thead><tr>${T.tbl.map(h => `<th>${h}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></div>
         ${cl.length ? `<div class="vt-comps"><h4>${T.comps}</h4><p>${cl.map(esc).join(' · ')}</p></div>` : ''}
-        <div class="vt-todo"><h3>${T.todo}</h3><ol>${acts}</ol></div><p class="vt-note">${T.note}</p>${lead}
+        ${cta}<div class="vt-todo"><h3>${T.todo}</h3><ol>${acts}</ol></div><p class="vt-note">${T.note}</p>${lead}
         <div class="vt-actions"><button class="vt-btn ghost" id="v-back">${T.back}</button><button class="vt-btn ghost" id="v-reset">${T.reset}</button></div>`;
     }
   };

@@ -32,6 +32,10 @@
     html += `</div>`;
   });
   html += `<div class="tl-plan"><h3>${U.next}</h3><ol id="tl-plan"></ol></div>`;
+  const CTA = lang === 'ar'
+    ? { h: 'تحتاج مساعدة في تنفيذ هذه الخطوات؟', p: 'أراجع موقعك معك وأرتب لك الأولويات وأتابع التنفيذ.', wa: 'تحدث معي على واتساب', m: 'أو راسلني بالبريد', msg: 'مرحبًا هالة، أنجزت قائمة فحص الظهور. أحتاج مساعدة في تنفيذ الخطوات.' }
+    : { h: 'Need help carrying out these steps?', p: 'I review your site with you, set the priorities and follow the work through.', wa: 'Talk to me on WhatsApp', m: 'Or email me', msg: 'Hi Hala, I used the visibility checklist. I need help carrying out the steps.' };
+  html += `<div class="tl-cta"><h3>${CTA.h}</h3><p>${CTA.p}</p><div class="btns"><a class="wa" href="https://wa.me/972595217725?text=${encodeURIComponent(CTA.msg)}" target="_blank" rel="noopener">${CTA.wa}</a><a class="m" href="mailto:halashamali77@gmail.com?subject=${encodeURIComponent(CTA.msg)}">${CTA.m}</a></div></div>`;
   html += `<div class="tl-foot"><span>${U.save}</span><button type="button" id="tl-reset">${U.reset}</button></div>`;
   if (window.LEAD_ENDPOINT) {
     html += `<div class="tl-lead" id="tl-lead"><h3>${U.leadTitle}</h3><p class="lead">${U.leadText}</p><form id="tl-form" novalidate>
