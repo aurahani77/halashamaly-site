@@ -29,6 +29,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/tools/ai-visibility-checklist"/>
   </url>
   <url>
+    <loc>https://halashamaly.com/tools/ai-visibility-test</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/tools/ai-visibility-test"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/tools/ai-visibility-test"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/tools/ai-visibility-test"/>
+  </url>
+  <url>
+    <loc>https://halashamaly.com/ar/tools/ai-visibility-test</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/tools/ai-visibility-test"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://halashamaly.com/ar/tools/ai-visibility-test"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://halashamaly.com/tools/ai-visibility-test"/>
+  </url>
+  <url>
     <loc>https://halashamaly.com/privacy</loc>
     <lastmod>2026-11-03</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://halashamaly.com/privacy"/>
