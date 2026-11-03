@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Hala Shamaly Blog</title>
+  <link>https://halashamaly.com/en/blog</link>
+  <description>Practical articles on GEO and AI search visibility.</description>
+  <language>en</language>
+  <item>
+    <title>Why AI Gets Your Brand Wrong, and How to Fix It</title>
+    <link>https://halashamaly.com/en/blog/why-ai-gets-your-brand-wrong</link>
+    <guid>https://halashamaly.com/en/blog/why-ai-gets-your-brand-wrong</guid>
+    <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+    <description>AI tools sometimes put brands in the wrong category. Why it happens, how to spot it, and the steps that moved Forlanso from freelance marketplace to remote workforce management.</description>
+  </item>
+  <item>
+    <title>Answer-First Writing: How to Structure Content So AI Can Quote It</title>
+    <link>https://halashamaly.com/en/blog/answer-first-content</link>
+    <guid>https://halashamaly.com/en/blog/answer-first-content</guid>
+    <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+    <description>A practical guide to writing quotable content for AI answers: lead with the answer, name things clearly, use lists and tables, and make every section stand on its own.</description>
+  </item>
+  <item>
+    <title>Does ChatGPT Mention Your Brand? A 10-Minute AI Visibility Check</title>
+    <link>https://halashamaly.com/en/blog/ai-visibility-check</link>
+    <guid>https://halashamaly.com/en/blog/ai-visibility-check</guid>
+    <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+    <description>A simple, free way to see whether ChatGPT, Gemini, Perplexity and Google AI Mode mention your brand: which questions to ask, what to record, and how to read the results.</description>
+  </item>
+  <item>
+    <title>What Is GEO? And How Is It Different From SEO?</title>
+    <link>https://halashamaly.com/en/blog/what-is-geo-vs-seo</link>
+    <guid>https://halashamaly.com/en/blog/what-is-geo-vs-seo</guid>
+    <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    <description>GEO is optimizing your brand to be mentioned and cited inside ChatGPT, Gemini and Google answers. How it differs from SEO, and what your brand can do this week.</description>
+  </item>
+  <item>
+    <title>llms.txt: What Is It, and Does Your Brand Need One?</title>
+    <link>https://halashamaly.com/en/blog/llms-txt-guide</link>
+    <guid>https://halashamaly.com/en/blog/llms-txt-guide</guid>
+    <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    <description>A guide to the proposed llms.txt file that points AI models to your site&#x27;s most important pages: what it looks like, how to write it, and what it does and does not do.</description>
+  </item>
+  <item>
+    <title>How Qoyod Became the Source ChatGPT Cites for Accounting Templates</title>
+    <link>https://halashamaly.com/en/blog/how-qoyod-became-the-source</link>
+    <guid>https://halashamaly.com/en/blog/how-qoyod-became-the-source</guid>
+    <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    <description>A blog full of knowledge, but AI found no answer worth quoting. How we rebuilt Qoyod&#x27;s templates to reach page one in under 24 hours.</description>
+  </item>
+</channel>
+</rss>

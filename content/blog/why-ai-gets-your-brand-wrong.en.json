@@ -1,0 +1,26 @@
+{
+ "slug": "why-ai-gets-your-brand-wrong",
+ "lang": "en",
+ "date": "2026-10-21",
+ "title": "Why AI Gets Your Brand Wrong, and How to Fix It",
+ "h1": "Why AI gets your brand wrong, and <span class=\"g\">how to fix it</span>",
+ "desc": "AI tools sometimes put brands in the wrong category. Why it happens, how to spot it, and the steps that moved Forlanso from freelance marketplace to remote workforce management.",
+ "lead": "When AI describes your brand as something it is not, you get compared with the wrong competitors and left out of the right questions.",
+ "tag": "Entity and positioning",
+ "body": "<p>The most expensive AI mistake is not being missed. It is being misunderstood. A brand placed in the wrong category is compared with the wrong competitors and left out of the questions its real buyers ask. That is what I found with Forlanso.</p>\n\n<h2 id=\"story\">The Forlanso case in short</h2>\n<p>Forlanso is a platform that manages remote work end to end: digital contracts, payroll and payments. But AI assistants often grouped it with freelance marketplaces such as Upwork. Over four weeks I ran a GEO framework to fix that. Afterwards all four major engines I tracked described it as a remote workforce management system, and forlanso.com became the first source cited by ChatGPT and Perplexity. The whole story, with screenshots, is in the <a href=\"../../forlanso.html\">full case study</a>.</p>\n\n<h2 id=\"why\">Why AI gets a brand wrong</h2>\n<ol class=\"stp\">\n<li><strong>Shared vocabulary.</strong> Words like \"freelance\", \"contracts\", \"payments\" and \"talent\" appear on many kinds of platforms. If your copy leans on the same words, a model fills in the most common category.</li>\n<li><strong>No fixed definition.</strong> If your site, your profiles and press mentions each describe you differently, the model has no single description to repeat.</li>\n<li><strong>Third-party sources.</strong> Directories, reviews and articles often describe a brand loosely, and models read them too.</li>\n<li><strong>Nobody told it what you are not.</strong> Without an explicit contrast, the nearest familiar category wins.</li>\n</ol>\n\n<h2 id=\"spot\">How to spot it</h2>\n<p>Run the <a href=\"ai-visibility-check.html\">10-minute AI visibility check</a> and read the descriptions word for word. Look for a wrong category, a wrong audience, a wrong country or a wrong offer. Also ask the tools directly: \"Is [your brand] a ...?\" and see whether they push back when the label is wrong.</p>\n\n<h2 id=\"fix\">How to fix it</h2>\n<ol class=\"stp\">\n<li><strong>Choose one category name</strong> and describe your brand with it in a single sentence.</li>\n<li><strong>Repeat it everywhere.</strong> Website, About page, structured data, profiles and any third-party listing you control.</li>\n<li><strong>Write the contrast.</strong> A clear \"we are X, not Y\" statement helps engines learn the distinction and repeat it.</li>\n<li><strong>Publish quote-ready facts.</strong> Specifics such as pricing model, countries served and how the product works, written so they can be lifted as they are.</li>\n<li><strong>Cover the real questions.</strong> Target the questions your actual buyers ask, in the languages they use.</li>\n<li><strong>Track and repeat.</strong> Re-test monthly. Answers shift, and positioning needs maintenance.</li>\n</ol>\n\n<h2 id=\"note\">A realistic expectation</h2>\n<p>Changing how AI describes a brand is possible, but I cannot promise a timeline or a guaranteed outcome. Results depend on the brand, the category and the competition. What you can control is making your brand easy to understand and consistent everywhere it appears.</p>\n<p>For the terms used here, see the <a href=\"../glossary/entity.html\">entity</a> entry in the glossary.</p>",
+ "faq": [
+  [
+   "Can I ask ChatGPT to correct how it describes my brand?",
+   "Not reliably. Corrections in a single chat do not change the model. What changes over time is the information it finds about you, so fix the sources: your site, your profiles and third-party pages."
+  ],
+  [
+   "How do I know if the problem is my site or other sources?",
+   "Check which pages the tools cite. If they cite third-party pages that describe you loosely, those need attention too, not only your own site."
+  ],
+  [
+   "How long does it take to fix a misclassification?",
+   "It varies. In Forlanso's case the framework took four weeks, but I do not promise a fixed duration."
+  ]
+ ],
+ "alt": null
+}

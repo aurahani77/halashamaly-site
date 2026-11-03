@@ -1,0 +1,13 @@
+{
+ "slug": "example-topic-slug",
+ "lang": "en",
+ "date": "2026-01-01",
+ "title": "Plain title that answers a question",
+ "h1": "Plain title with <span class=\"g\">key words</span>",
+ "desc": "One sentence of 150 to 160 characters describing what the reader will learn.",
+ "lead": "One or two sentences that state the problem or the answer.",
+ "tag": "Local business",
+ "body": "<p>Start with the answer.</p>\n<h2 id=\"why\">Why it matters</h2>\n<p>...</p>\n<ol class=\"stp\"><li><strong>Step.</strong> Explain it.</li></ol>\n<p>Try the free <a href=\"{root}tools/ai-visibility-test.html\">visibility test</a>.</p>",
+ "faq": [["A real question?", "A direct answer."]],
+ "alt": "example-topic-slug"
+}

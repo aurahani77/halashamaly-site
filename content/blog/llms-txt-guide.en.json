@@ -1,0 +1,26 @@
+{
+ "slug": "llms-txt-guide",
+ "lang": "en",
+ "date": "2026-10-20",
+ "title": "llms.txt: What Is It, and Does Your Brand Need One?",
+ "h1": "<span class=\"g\">llms.txt</span>: what is it, and does your brand need one?",
+ "desc": "A guide to the proposed llms.txt file that points AI models to your site's most important pages: what it looks like, how to write it, and what it does and does not do.",
+ "lead": "Every site has a robots.txt for search crawlers. Does your site need a similar file for language models? A straight answer without the hype.",
+ "tag": "Technical guide",
+ "body": "<p>Many people talk about the <code>llms.txt</code> file as if it were the key to appearing in AI answers. The reality is more modest. This article explains what the file is, how to write it, and when it is worth your time.</p>\n\n<h2 id=\"what\">What is llms.txt?</h2>\n<div class=\"callout\"><p>A Markdown text file placed at the root of your site (<code>/llms.txt</code>) that introduces language models to your website: what it is, which pages matter most, and why. It was proposed in 2024 by Jeremy Howard, founder of Answer.AI.</p></div>\n<p>The idea is that web pages are full of menus, ads and elements that confuse a model, so this file acts as a short, clear guide written for machines.</p>\n\n<h2 id=\"truth\">What does it actually do?</h2>\n<p>I have to be straightforward here: <strong>llms.txt is a proposal, not an official standard</strong>. No major company has officially confirmed that it reads the file as a signal when generating answers. So I do not treat it as a decisive factor, and I do not promise anyone it will raise their visibility.</p>\n<p>Why do I use it anyway? Because the cost is low and the first benefit is to you: it forces you to write a clear definition of your brand and choose the pages you want to be understood by. Software tools and agents that read websites on their own may also benefit.</p>\n\n<h2 id=\"format\">What the file looks like</h2>\n<pre class=\"code\" dir=\"ltr\"><code># Example Co\n\n&gt; Cloud accounting software for small and medium businesses in Saudi Arabia.\n\nExample Co offers invoicing, VAT-compliant reports and ready-made accounting templates.\n\n## Key pages\n- [Pricing](https://example.com/pricing): plans and what each includes\n- [Templates](https://example.com/templates): free accounting templates\n- [About](https://example.com/about): who we are and who we serve\n\n## Resources\n- [Blog](https://example.com/blog): guides on accounting and VAT</code></pre>\n<p>The essentials: a title with the brand name, a one or two line summary, then sections containing links with a short description for each.</p>\n\n<h2 id=\"how\">How to write it, step by step</h2>\n<ol class=\"stp\">\n<li>Write your brand definition in two sentences: what you offer, for whom, and in which category.</li>\n<li>Pick five to ten pages that matter most for understanding your brand (services, pricing, about, key proof).</li>\n<li>Add a one-sentence description for each page.</li>\n<li>Save the file as <code>llms.txt</code> and upload it to the site root, then open it in the browser to confirm it shows as plain text.</li>\n<li>Update it whenever the site changes substantially.</li>\n</ol>\n<p>You can see a real example in my own site's file: <a href=\"../../llms.txt\">halashamaly.com/llms.txt</a>.</p>\n\n<h2 id=\"verdict\">Does your brand need it?</h2>\n<p>If your site is large or has a lot of content, yes, write it, because the effort is small. But do not make it a substitute for the fundamentals: content that starts with the answer, a clear brand entity, structured data and a sound technical structure. Those are what made the difference in what I saw with Qoyod and Forlanso.</p>",
+ "faq": [
+  [
+   "Is llms.txt a replacement for robots.txt?",
+   "No. robots.txt defines what crawlers are allowed to visit, while llms.txt is a proposed guide that introduces models to your site and its key pages. Each serves a different purpose."
+  ],
+  [
+   "Does llms.txt improve my Google ranking?",
+   "There is no confirmed evidence that it does, and I do not promise it."
+  ],
+  [
+   "Can having the file hurt?",
+   "There is no known harm, as long as it contains no inaccurate information or anything you do not want published."
+  ]
+ ],
+ "alt": "llms-txt-guide"
+}
