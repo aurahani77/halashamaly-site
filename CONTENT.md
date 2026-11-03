@@ -12,10 +12,10 @@ Change this line to switch. Current value is the one in the heading above.
 ## The daily routine
 1. Sync with `main`, create the branch `blog/YYYY-MM-DD`.
 2. Take the first topic with status `todo` in `content/calendar.md`.
-3. Write the Arabic article and the English article (same topic, paired with `alt`). Do not machine-translate word for word: write each naturally.
-4. Save `content/blog/<slug>.ar.json` and `content/blog/<slug>.en.json` (see `scripts/post_template.json`). Slug = lowercase English words with hyphens, the same for both languages.
+3. ONE language per day, alternating. Find the newest article date in `content/blog/*.json`; if the latest article is Arabic write English today, otherwise write Arabic. Write one article only, naturally, in that language (not a translation). Use the topic title for that language from the calendar.
+4. Save `content/blog/<slug>.<lang>.json` (see `scripts/post_template.json`). Slug = lowercase English words with hyphens. Set `alt` to null (no pair).
 5. Run `python3 scripts/build_blog.py` then `python3 scripts/check_site.py`. Fix every error.
-6. Set the topic status to `done (YYYY-MM-DD)` in `content/calendar.md`.
+6. Set the topic status to `done (YYYY-MM-DD, ar|en)` in `content/calendar.md`.
 7. Commit (`Blog: <English title>`), push, open a pull request to `main`. Follow PUBLISH_MODE.
 8. If you cannot finish (missing facts, check fails), do not publish. Leave the topic as `todo`, and say why in the pull request or the session summary.
 
