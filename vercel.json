@@ -16,6 +16,26 @@
       "source": "/case-studies/:slug",
       "destination": "/:slug",
       "permanent": true
+    },
+    {
+      "source": "/ai-visibility-test.html",
+      "destination": "/tools/ai-visibility-test",
+      "permanent": true
+    },
+    {
+      "source": "/ar/ai-visibility-test.html",
+      "destination": "/ar/tools/ai-visibility-test",
+      "permanent": true
+    },
+    {
+      "source": "/ai-visibility-checklist.html",
+      "destination": "/tools/ai-visibility-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/ar/ai-visibility-checklist.html",
+      "destination": "/ar/tools/ai-visibility-checklist",
+      "permanent": true
     }
   ]
 }
