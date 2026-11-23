@@ -1,0 +1,26 @@
+{
+ "slug": "schema-in-plain-words",
+ "lang": "en",
+ "date": "2026-12-07",
+ "title": "Schema in Plain Words: Three Types Most Businesses Need",
+ "h1": "Schema in plain words: <span class=\"g\">three types</span> most businesses need",
+ "desc": "Schema is a label system that describes your page to machines. Learn the three types most small businesses use and the one rule that keeps them safe.",
+ "lead": "Schema is a way of labelling your page so a machine knows what each part is: a business, a product, a question. Most small businesses need only three types, and one rule.",
+ "tag": "Technical basics",
+ "body": "<p>\"Schema\" sounds technical, but the idea is simple. It is a set of labels, agreed across the web, that you add to a page so machines know exactly what they are reading: this is a business, this is its phone number, this is a product with this price. The labels sit in the page code, in a format called JSON-LD. A developer or a plugin usually adds them.</p>\n<p>First, an honest note: Google says no special markup is required for its AI features. Structured data is a documented way to describe a page. It is not a switch that guarantees visibility. See the <a href=\"{root}en/glossary/schema.html\">schema</a> glossary entry.</p>\n\n<h2 id=\"rule\">The one rule</h2>\n<div class=\"callout\"><p>Everything in the schema must match what a visitor can see on the page. Never label something that is not there.</p></div>\n<p>Mismatches, such as a price in the code that differs from the price on the page, create confusion and can cause problems. Keep them identical.</p>\n\n<h2 id=\"three\">The three types</h2>\n<ol class=\"stp\">\n<li><strong>Organization or LocalBusiness.</strong> Describes who you are: name, logo, website, contact details, and for a local business the address and opening hours. Put it on your homepage or About page. Use LocalBusiness if customers visit you.</li>\n<li><strong>Product (or Service).</strong> Describes what you sell: name, description, price, currency and availability. Put it on each product page, and keep it in sync with the visible price.</li>\n<li><strong>FAQPage.</strong> Describes questions and answers that appear on the page. Only use it if the questions and answers are visible to the visitor, word for word.</li>\n</ol>\n\n<h2 id=\"table\">What goes where</h2>\n<div class=\"tbl-wrap\"><table>\n<thead><tr><th>Type</th><th>Page</th><th>Matches what the visitor sees</th></tr></thead>\n<tbody>\n<tr><td>Organization / LocalBusiness</td><td>Home, About</td><td>Name, address, phone, hours</td></tr>\n<tr><td>Product</td><td>Each product page</td><td>Name, price, availability</td></tr>\n<tr><td>FAQPage</td><td>Pages with a real FAQ</td><td>The visible questions and answers</td></tr>\n</tbody></table></div>\n\n<h2 id=\"example\">A small example</h2>\n<p>This is a minimal Organization block. The values are placeholders, so replace every one with your real details.</p>\n<pre class=\"code\" dir=\"ltr\"><code>&lt;script type=\"application/ld+json\"&gt;\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Example Co\",\n  \"url\": \"https://example.com\",\n  \"logo\": \"https://example.com/logo.png\"\n}\n&lt;/script&gt;</code></pre>\n\n<h2 id=\"check\">How to check it</h2>\n<ul>\n<li>Ask your developer or plugin where the schema is added, and on which pages.</li>\n<li>Use a structured data testing tool, such as Google's Rich Results Test, to check there are no errors.</li>\n<li>Compare each value in the schema with the visible page.</li>\n<li>Update the schema whenever you change prices, hours or contact details.</li>\n</ul>\n\n<h2 id=\"qoyod\">From my work</h2>\n<p>At Qoyod I used Schema on template pages together with answer-first rewrites of page openings and internal links between new content. I can't isolate schema's own contribution from the rest, and I don't claim to.</p>\n\n<h2 id=\"next\">What to do next</h2>\n<p>If you only have time for one thing, add an accurate Organization or LocalBusiness block to your homepage. Then test whether tools describe you correctly with the <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a>. For the technical checks, use the <a href=\"{root}tools/ai-visibility-checklist.html\">technical checklist</a> with your developer.</p>",
+ "faq": [
+  [
+   "Do I need schema to appear in AI answers?",
+   "Google says no special markup is required for its AI features. Schema is a documented way to describe a page accurately."
+  ],
+  [
+   "Can schema hurt me?",
+   "Only if it does not match the visible page. Keep every value identical to what visitors see."
+  ],
+  [
+   "Who adds schema to my site?",
+   "Usually a developer or an SEO plugin. Give them the three types and the matching rule."
+  ]
+ ],
+ "alt": null
+}

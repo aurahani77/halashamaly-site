@@ -1,0 +1,26 @@
+{
+ "slug": "best-in-your-city-questions",
+ "lang": "en",
+ "date": "2026-11-29",
+ "title": "How to Appear in \"Best in My City\" Questions",
+ "h1": "How to appear in <span class=\"g\">\"best in my city\"</span> questions",
+ "desc": "Local customers ask AI tools for the best business near them. Here is what a local business can do to be understood, with practical steps and honest limits.",
+ "lead": "\"Best [service] in [city]\" is one of the most common questions customers ask. Nobody outside the platforms knows exactly how tools answer it, but you can make your business easy to understand and verify.",
+ "tag": "Local business",
+ "body": "<p>Customers ask AI tools things like \"best dentist in Jeddah\" or \"where to buy fresh coffee beans in Dubai\". The answer usually names a few businesses. Here is what I would do so yours is a business the tool can understand and check. I cannot promise it will be named.</p>\n\n<h2 id=\"honest\">What I know and what I do not</h2>\n<p>I do not know how any tool ranks local businesses. The platforms do not publish it, and answers differ between runs, users and countries. What I can tell you comes from my work, and I label it as practice.</p>\n<p>One documented point from Google: a page must be indexed and eligible to show a snippet to appear as a supporting link in its AI features, and normal search best practices apply.</p>\n\n<h2 id=\"steps\">Seven steps for a local business</h2>\n<ol class=\"stp\">\n<li><strong>Say your category and city plainly.</strong> The first sentence of your homepage and service pages should state what you are and where: \"Example Dental Clinic is a family dental clinic in Jeddah.\"</li>\n<li><strong>Complete your Google Maps profile.</strong> Name, category, hours, services, photos and contact details, the same as on your website. At Point Market I manage the profiles of 37 branches, and the most common problems are small mismatches in hours and names.</li>\n<li><strong>Make one page per service and per location.</strong> A page titled \"Teeth whitening in Jeddah\" answers the question better than a general page that mentions it once.</li>\n<li><strong>Answer the question first.</strong> Start each service page with a direct answer, then add price ranges, process and conditions.</li>\n<li><strong>Ask for reviews that name the service and city.</strong> A review that says \"booked a whitening session at the Jeddah branch\" is more informative than \"great\". Never buy or write reviews yourself.</li>\n<li><strong>Keep facts identical everywhere.</strong> Address, phone and hours on your site, Maps and social profiles. Contradictions confuse readers and tools.</li>\n<li><strong>Keep pages current.</strong> An old price or closed branch on a page damages trust.</li>\n</ol>\n\n<h2 id=\"write\">Write the page like the question</h2>\n<p>Compare two openings for the same page.</p>\n<p><strong>Before.</strong> \"We are passionate about your smile and committed to excellence in dental care.\"</p>\n<p><strong>After.</strong> \"Example Dental Clinic in Jeddah offers teeth whitening, braces and routine check-ups for adults and children. Appointments are available six days a week.\"</p>\n<p>The second one can be quoted as it stands. Use your own real facts, of course, not mine.</p>\n\n<h2 id=\"neighbourhood\">Think in neighbourhoods</h2>\n<p>Many customers search by area, not just city: \"near me\", or the district name. If you serve specific areas, say so on a page, with the real districts you serve, and show them on your Maps profile. Only list areas you actually cover.</p>\n\n<h2 id=\"check\">Test it</h2>\n<p>Ask the question the way a customer would on two or three tools, on different days, and record who is named and why. My <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a> prepares local questions by business type, with a link to try each one. For the idea of being recognised as one clear thing, see <a href=\"{root}en/glossary/entity.html\">entity</a>. For a multi-branch example, read the <a href=\"{root}point-market.html\">Point Market case study</a>.</p>\n<p class=\"note\">I cannot guarantee that any tool will name your business. These steps make your business clearer to customers and to the tools that read about it.</p>",
+ "faq": [
+  [
+   "Do I need a page for every city I serve?",
+   "Only for places where you actually operate or deliver. A genuine page for each real location is better than many near-identical pages."
+  ],
+  [
+   "Do reviews decide who gets named?",
+   "There is no official confirmation of that. Reviews matter to customers, and detailed honest ones help describe your business."
+  ],
+  [
+   "Is Google Maps enough without a website?",
+   "A complete Maps profile helps, but a website with clear facts gives tools and customers more to rely on."
+  ]
+ ],
+ "alt": null
+}

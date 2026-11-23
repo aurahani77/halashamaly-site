@@ -1,0 +1,26 @@
+{
+ "slug": "a-pricing-page-ai-can-quote",
+ "lang": "en",
+ "date": "2026-12-09",
+ "title": "How to Write a Pricing Page AI Can Quote",
+ "h1": "How to write a pricing page <span class=\"g\">AI can quote</span>",
+ "desc": "Customers ask tools what something costs. A pricing page with concrete numbers, clear inclusions and honest conditions is easier to trust and quote.",
+ "lead": "When a customer asks \"how much does it cost?\", the useful page answers with real numbers, what is included, and the conditions. Vague pricing pages leave the tool nothing to quote.",
+ "tag": "Content",
+ "body": "<p>\"How much does it cost?\" is one of the first questions a customer asks, and tools answer it too. A page that hides the price behind \"contact us\" gives people and tools nothing to work with. I do not say every business must publish prices; some cannot. But you can almost always say more than \"contact us\".</p>\n\n<h2 id=\"first\">Give the answer first</h2>\n<p>Begin with a sentence that states the price or range: \"The Starter plan costs [amount] per month and includes [what].\" Use your own real figures. If you cannot give one price, give a starting point or range and say what moves it.</p>\n\n<h2 id=\"include\">State what is included</h2>\n<p>A number without a scope is not useful. For each plan or service, list:</p>\n<ul>\n<li>What is included.</li>\n<li>What is not included, or costs extra.</li>\n<li>Billing period and currency, with or without VAT.</li>\n<li>Minimum commitment or contract length.</li>\n<li>Refund or cancellation terms.</li>\n</ul>\n\n<h2 id=\"table\">Use a comparison table</h2>\n<div class=\"tbl-wrap\"><table>\n<thead><tr><th></th><th>Plan A</th><th>Plan B</th></tr></thead>\n<tbody>\n<tr><td>Price</td><td>Your real price</td><td>Your real price</td></tr>\n<tr><td>Best for</td><td>Who it suits</td><td>Who it suits</td></tr>\n<tr><td>Included</td><td>List</td><td>List</td></tr>\n<tr><td>Not included</td><td>List</td><td>List</td></tr>\n</tbody></table></div>\n<p>A table keeps each number next to its meaning, which is easy for a reader to scan and for a tool to read. The placeholder cells above are for you to fill in with real data.</p>\n\n<h2 id=\"range\">When you cannot publish a fixed price</h2>\n<p>Services priced per project, such as consulting, can state a typical range and the main factors: scope, timeline, number of pages, number of languages. Say what the customer gets at each level and how long a quote takes. I would rather publish a range with its conditions than a vague line.</p>\n\n<h2 id=\"honest\">Be honest and current</h2>\n<ul>\n<li>Never advertise a price you do not honour.</li>\n<li>Show the date you last reviewed the page.</li>\n<li>Update the page the day prices change. An old price quoted from your page is worse than no price.</li>\n<li>Do not compare yourself to others by price on this page. Explain your own offer.</li>\n</ul>\n\n<h2 id=\"faq\">Add the pricing questions</h2>\n<p>Place a short FAQ under the table with the questions customers actually ask: \"Is VAT included?\", \"Can I change plans?\", \"What happens if I cancel?\". Answer each in the first sentence. For how to write them, see the guide on <a href=\"{root}en/blog/answer-first-content.html\">answer-first content</a>.</p>\n\n<h2 id=\"markup\">A note on markup</h2>\n<p>If you add Product or Offer structured data, the values must match the visible page. Google says no special markup is required for its AI features, so see it as an accurate description, not a requirement. The <a href=\"{root}en/glossary/schema.html\">schema</a> entry explains the idea.</p>\n\n<h2 id=\"test\">Check how you are described</h2>\n<p>Ask \"how much does [your service] cost in [your city]?\" on a couple of tools and see which numbers they use and where they come from. If they cite an outdated figure, fix the source first. The <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a> includes cost questions by business type.</p>",
+ "faq": [
+  [
+   "Should I always publish prices?",
+   "Not always. If you cannot, publish a range or a starting point with the factors that change it, which is more useful than 'contact us'."
+  ],
+  [
+   "How often should I update the pricing page?",
+   "Whenever prices change, and review it at least every quarter."
+  ],
+  [
+   "Should I show competitors' prices?",
+   "I would not. Explain your own offer clearly and honestly."
+  ]
+ ],
+ "alt": null
+}

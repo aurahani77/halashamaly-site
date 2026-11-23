@@ -1,0 +1,26 @@
+{
+ "slug": "write-for-how-customers-really-ask",
+ "lang": "en",
+ "date": "2026-12-03",
+ "title": "Write for How Your Customers Really Ask",
+ "h1": "Write for how your <span class=\"g\">customers really ask</span>",
+ "desc": "Customers ask full questions in natural language, not keyword lists. Learn where to collect their real questions and how to answer them in your content.",
+ "lead": "People now ask tools full questions in their own words. If your pages use the words your customers use, they are easier to match and easier to quote.",
+ "tag": "Content",
+ "body": "<p>Search used to reward short keyword phrases. Customers now type or say whole questions: \"which accounting software is easiest for VAT in Saudi Arabia?\" Your content should be written for that kind of question. This does not replace search basics. It adds a habit: write the answer in the customer's language.</p>\n\n<h2 id=\"difference\">Keywords versus questions</h2>\n<div class=\"tbl-wrap\"><table>\n<thead><tr><th>Keyword style</th><th>Question style</th></tr></thead>\n<tbody>\n<tr><td>accounting software VAT</td><td>Which accounting software handles VAT for a small shop?</td></tr>\n<tr><td>cake delivery Jeddah</td><td>Can I order a birthday cake for tomorrow in Jeddah?</td></tr>\n<tr><td>CRM price</td><td>How much does a CRM cost for a team of five?</td></tr>\n</tbody></table></div>\n<p>The question style includes context: who is asking, what for, in which place. Your page should answer that context.</p>\n\n<h2 id=\"collect\">Where to find the real questions</h2>\n<p>Do not invent them. Collect the ones people already ask you:</p>\n<ol class=\"stp\">\n<li><strong>Chat messages.</strong> Go through your WhatsApp or Instagram messages from the last two months and copy the questions as written.</li>\n<li><strong>Calls and sales meetings.</strong> Ask your team which questions come up again and again.</li>\n<li><strong>Reviews and comments.</strong> Customers explain what confused them or surprised them.</li>\n<li><strong>Search Console.</strong> If you use it, the Queries report shows what people typed before reaching you.</li>\n<li><strong>Your own tests.</strong> Ask AI tools the questions and note which follow-ups they suggest.</li>\n</ol>\n\n<h2 id=\"arabic\">A note on Arabic and dialects</h2>\n<p>Many customers in the Gulf ask in their dialect, in Modern Standard Arabic, or in English, sometimes all three. I collect the questions in whatever form they arrive, then write my published content in clear Modern Standard Arabic and use the customers' own terms for products and services. I do not write the page itself in dialect. This is my practice, not a platform rule.</p>\n\n<h2 id=\"answer\">Answer inside the page</h2>\n<p>Turn each real question into a heading and answer it in the first sentence. This is the habit that changed the most in my work at Qoyod: I rewrote the opening of pages so each began with a short, direct answer. Pages in that project reached page one in under 24 hours. I cannot promise that speed for you. It shows what answer-first can do inside a strong site.</p>\n<p>Keep the customer's wording in the heading, then add detail below. Use their term for the product, not your internal name for it.</p>\n\n<h2 id=\"group\">Group and prioritise</h2>\n<p>You will collect many questions. Group them by topic, count how often each repeats, and write for the most frequent first. One page, one main question.</p>\n\n<h2 id=\"measure\">Check whether it works</h2>\n<p>Take ten of the questions and ask them on two or three tools. Record whether your business is mentioned and how it is described. My <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a> gives you ready questions by business type if you want a starting set. For the idea of writing answer-first, read <a href=\"{root}en/blog/answer-first-content.html\">answer-first content</a>.</p>\n<p class=\"note\">Writing in your customers' words helps people and tools understand you. It does not guarantee any placement.</p>",
+ "faq": [
+  [
+   "Should I stop using keywords?",
+   "No. Keywords still matter as part of search basics. Add question-style headings and direct answers on top of them."
+  ],
+  [
+   "How many questions should I collect?",
+   "Start with twenty to thirty real ones, group them, and write for the most frequent first."
+  ],
+  [
+   "Should I write in dialect?",
+   "I collect questions in any form, but write published Arabic content in clear Modern Standard Arabic, using the customers' own terms for products and services."
+  ]
+ ],
+ "alt": null
+}

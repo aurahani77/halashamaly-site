@@ -1,0 +1,26 @@
+{
+ "slug": "ten-questions-to-test-your-business-in-chatgpt",
+ "lang": "en",
+ "date": "2026-11-25",
+ "title": "10 Questions to Ask ChatGPT About Your Business",
+ "h1": "10 questions to <span class=\"g\">ask ChatGPT</span> about your business",
+ "desc": "How to write ten real customer questions, where to ask them, and what to record, so you know whether AI tools mention your business before you change anything.",
+ "lead": "Before you fix anything, find out where you stand. Ten real customer questions, asked on two or three tools and written down, will tell you more than any guess.",
+ "tag": "Testing",
+ "body": "<p>The quickest way to learn whether AI tools mention your business is to ask them the questions your customers ask. It takes about twenty minutes, costs nothing, and gives you a starting point. Here is how I do it with clients.</p>\n\n<h2 id=\"write\">How to write the ten questions</h2>\n<p>Write them the way a customer would type or say them, not the way you would describe your service. Mix four kinds:</p>\n<ol class=\"stp\">\n<li><strong>Best-of questions (3).</strong> \"What is the best [your service] in [your city]?\"</li>\n<li><strong>Problem questions (3).</strong> \"How do I [solve the problem your service solves]?\"</li>\n<li><strong>Comparison questions (2).</strong> \"What is the difference between [option A] and [option B]?\"</li>\n<li><strong>Direct questions about you (2).</strong> \"What does [your business name] do?\" and \"Is [your business name] good?\"</li>\n</ol>\n<p>Use the words your customers use. If they say \"plumber\" and you say \"maintenance contractor\", write \"plumber\".</p>\n\n<h2 id=\"examples\">Example questions for a local bakery</h2>\n<div class=\"tbl-wrap\"><table>\n<thead><tr><th>Type</th><th>Example</th></tr></thead>\n<tbody>\n<tr><td>Best-of</td><td>Where can I order a birthday cake in Riyadh?</td></tr>\n<tr><td>Problem</td><td>How do I find a bakery that makes sugar-free cakes?</td></tr>\n<tr><td>Comparison</td><td>Custom cake or ready-made cake for a small party?</td></tr>\n<tr><td>Direct</td><td>What does [Bakery name] offer?</td></tr>\n</tbody></table></div>\n\n<h2 id=\"where\">Where to ask</h2>\n<p>Ask on at least two tools, for example ChatGPT and Google, and on Google AI Mode if you can. Do not rely on one answer. AI answers vary between runs, users and countries, so a single result tells you little. I repeat the test on a second day before I draw any conclusion.</p>\n\n<h2 id=\"record\">What to record</h2>\n<p>Use a simple sheet with one row per question and these columns:</p>\n<ul>\n<li><strong>Tool and date.</strong></li>\n<li><strong>Were you mentioned?</strong> Yes, no, or only after a follow-up.</li>\n<li><strong>How were you described?</strong> Copy the sentence. Check it against what you want people to say.</li>\n<li><strong>Who was mentioned instead?</strong> This shows who the tool treats as the answer.</li>\n<li><strong>Which sources appeared?</strong> Note the sites or profiles listed beside the answer.</li>\n</ul>\n\n<h2 id=\"read\">How to read the result</h2>\n<p>Three outcomes are common. You are not mentioned: the tool may not know you, or may not see you as the answer to that question. You are mentioned but wrongly described: your description is inconsistent across the web, and that is fixable. You are mentioned correctly: protect it by keeping your pages current.</p>\n<p>I saw the second case at Forlanso. AI tools classified it as a freelance marketplace like Upwork, when it is a remote workforce management platform. Finding that was the first step of the work, and after four weeks of a structured GEO framework, the four engines we tracked described it correctly. That is one case, not a promise.</p>\n\n<h2 id=\"faster\">A faster way</h2>\n<p>If you do not want to write the questions yourself, my <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a> prepares ready questions by business type, written the way customers ask, with links to try them. Open it, pick your business type, and record what you see.</p>\n<p>For the background term, see <a href=\"{root}en/glossary/entity.html\">entity</a> in the glossary: the idea that a tool should be able to recognise your business as one clear, specific thing.</p>\n<p class=\"note\">This test shows where you stand today. It does not guarantee any result.</p>",
+ "faq": [
+  [
+   "How many questions are enough?",
+   "Ten real questions across the four types is enough to see a pattern. Repeat the test on another day."
+  ],
+  [
+   "Should I use my own business name in the questions?",
+   "Include two direct questions with your name, but most should be the questions customers ask when they do not know you yet."
+  ],
+  [
+   "Why do I get different answers each time?",
+   "AI answers vary between runs, users and countries, which is why one result is not enough to judge."
+  ]
+ ],
+ "alt": null
+}
