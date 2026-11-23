@@ -1,0 +1,26 @@
+{
+ "slug": "answer-first-content",
+ "lang": "en",
+ "date": "2026-10-21",
+ "title": "Answer-First Writing: How to Structure Content So AI Can Quote It",
+ "h1": "<span class=\"g\">Answer-first</span> writing: how to structure content so AI can quote it",
+ "desc": "A practical guide to writing quotable content for AI answers: lead with the answer, name things clearly, use lists and tables, and make every section stand on its own.",
+ "lead": "AI tools quote passages, not pages. If your best answer is buried in the fourth paragraph, it will not be the one that gets lifted.",
+ "tag": "Content strategy",
+ "body": "<p>Search engines rank pages. Answer engines build a response from passages. That changes how you should write: every section needs to be able to stand on its own, with the answer in the first line. This is the single change that made the biggest difference in my work with Qoyod.</p>\n\n<h2 id=\"principle\">The principle</h2>\n<div class=\"callout\"><p>Put the direct answer first, in one or two sentences. Then explain, give evidence and add detail. A reader, or a model, who stops after the first lines should already have what they came for.</p></div>\n\n<h2 id=\"example\">A before and after</h2>\n<p><strong>Before.</strong> \"Inventory management is an important topic for every business. Many companies struggle with it, and there are several approaches you can consider depending on your needs and size...\"</p>\n<p><strong>After.</strong> \"An inventory management template is a spreadsheet that tracks what you have in stock, what you sold and what you need to reorder. Use one if you manage fewer than a few hundred items and do not yet need dedicated software.\"</p>\n<p>The second version can be quoted as is. The first cannot, because nothing in it answers a question.</p>\n\n<h2 id=\"rules\">Six rules I follow</h2>\n<ol class=\"stp\">\n<li><strong>Start every section with the answer.</strong> The first paragraph under each heading should work if it is copied alone.</li>\n<li><strong>Write headings as the question people ask.</strong> \"How much does X cost?\" is easier to match than \"Pricing considerations\".</li>\n<li><strong>Name things in full.</strong> Write the brand and product names instead of \"we\" or \"our solution\", because a quoted passage loses its surrounding context.</li>\n<li><strong>One idea per paragraph.</strong> Short, self-contained paragraphs are easier to lift than long ones.</li>\n<li><strong>Use lists and tables for comparisons and steps.</strong> They make structure explicit.</li>\n<li><strong>Add specifics.</strong> Numbers, prices, limits, dates and conditions make a passage worth citing. Vague claims are not.</li>\n</ol>\n\n<h2 id=\"qoyod\">What this looked like at Qoyod</h2>\n<p>Qoyod's blog was full of accounting knowledge in long articles. I rewrote intros and summaries to be short and direct, turned complex information into lists and tables, and built template pages as knowledge assets rather than plain download pages. The full story is in the <a href=\"how-qoyod-became-the-source.html\">Qoyod article</a>.</p>\n\n<h2 id=\"limits\">What this does not do</h2>\n<p>Good structure does not force an AI tool to cite you. It removes a reason not to. You still need a clear brand entity, a sound technical base and consistent sources. And everything you write has to be accurate, because a quotable error is worse than no quote.</p>\n\n<h2 id=\"checklist\">A quick checklist for your next page</h2>\n<ul>\n<li>Does each section open with a direct answer?</li>\n<li>Do the headings match real questions?</li>\n<li>Would a passage still make sense if copied alone?</li>\n<li>Are there at least a few concrete facts?</li>\n<li>Is the brand named in full where it matters?</li>\n</ul>",
+ "faq": [
+  [
+   "Does answer-first writing hurt the reading experience?",
+   "No. Readers also prefer getting the answer first. You can keep the depth below it for those who want more."
+  ],
+  [
+   "How long should the first answer be?",
+   "One or two sentences, roughly 40 to 60 words. Long enough to be complete, short enough to be quoted whole."
+  ],
+  [
+   "Do I need to rewrite my whole site?",
+   "Start with the five to ten pages that matter most for revenue, then extend to the rest."
+  ]
+ ],
+ "alt": null
+}

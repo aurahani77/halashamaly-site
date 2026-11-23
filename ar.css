@@ -9,7 +9,7 @@ html[dir="rtl"] .eyebrow{text-transform:none;font-size:14px}
 html[dir="rtl"] .lockup .name small{text-transform:none;font-family:"IBM Plex Sans Arabic",var(--sans);font-size:11.5px}
 html[dir="rtl"] .hero p.lead{line-height:2}
 html[dir="rtl"] .num,html[dir="rtl"] .n,html[dir="rtl"] .win strong,html[dir="rtl"] .stat strong,html[dir="rtl"] .xp-stats strong,html[dir="rtl"] .cf-stats strong{font-family:var(--head)}
-html[dir="rtl"] .win span b,html[dir="rtl"] .tags,html[dir="rtl"] .page-badge,html[dir="rtl"] .role .when,html[dir="rtl"] .sd-badge,html[dir="rtl"] .sd-src em,html[dir="rtl"] .svc .n{font-family:"IBM Plex Sans Arabic",var(--sans);text-transform:none}
+html[dir="rtl"] .win span b,html[dir="rtl"] .tags,html[dir="rtl"] .page-badge,html[dir="rtl"] .role .when,html[dir="rtl"] .svc .n{font-family:"IBM Plex Sans Arabic",var(--sans);text-transform:none}
 html[dir="rtl"] code{direction:ltr;unicode-bidi:isolate}
 html[dir="rtl"] .rotator{direction:ltr;unicode-bidi:isolate;text-align:right}
 
@@ -27,8 +27,6 @@ html[dir="rtl"] .stat+.stat{padding-left:0;padding-right:28px;border-left:0;bord
 html[dir="rtl"] .stat strong .u{font-size:.42em;font-weight:600;margin-inline-start:.15em}
 
 /* shift demo */
-html[dir="rtl"] .sd-badge{right:auto;left:12px}
-html[dir="rtl"] .sd-src small{font-size:12px}
 
 /* process */
 html[dir="rtl"] .steps::before{background:linear-gradient(270deg,var(--mid) var(--p,0%),#D6CCF7 var(--p,0%))}
@@ -118,3 +116,25 @@ html[dir="rtl"] .rec .qm{left:auto;right:24px}
 html[dir="rtl"] .rec details summary{font-family:var(--sans)}
 html[dir="rtl"] .rec details summary:after{content:" +"}
 html[dir="rtl"] .rec details[open] summary:after{content:" −"}
+
+/* Arabic readability: larger type, wider layout */
+html[dir="rtl"] body{font-size:18px;line-height:1.9}
+html[dir="rtl"] .wrap{max-width:1280px;padding:0 36px}
+html[dir="rtl"] .nav{height:84px}
+html[dir="rtl"] .nav ul{gap:34px}
+html[dir="rtl"] .nav ul a{font-size:17px;opacity:.92}
+html[dir="rtl"] .nav .btn{font-size:16px;padding:11px 22px}
+html[dir="rtl"] .btn{font-size:17px;padding:14px 26px}
+html[dir="rtl"] .tag{font-size:15px}
+html[dir="rtl"] .eyebrow{font-size:15px}
+html[dir="rtl"] .hero p,html[dir="rtl"] .lead{font-size:19.5px}
+html[dir="rtl"] .answer{font-size:16px}
+html[dir="rtl"] .svc p,html[dir="rtl"] .case p,html[dir="rtl"] .case a.more{font-size:17px}
+html[dir="rtl"] .svc.feature li,html[dir="rtl"] .creds span,html[dir="rtl"] .win span,html[dir="rtl"] .role .co,html[dir="rtl"] .case .client{font-size:16px}
+html[dir="rtl"] .case .res span,html[dir="rtl"] .r-tags a,html[dir="rtl"] .svc .n{font-size:15px}
+html[dir="rtl"] .stat>span{font-size:17px}
+html[dir="rtl"] .skills-grid h3{font-size:18px}
+html[dir="rtl"] footer,html[dir="rtl"] footer a{font-size:16px}
+html[dir="rtl"] details summary{font-size:19px}
+html[dir="rtl"] details p{font-size:17.5px}
+@media (max-width:760px){html[dir="rtl"] body{font-size:17px}html[dir="rtl"] .wrap{padding:0 20px}}

@@ -30,8 +30,8 @@
 ## Blog and glossary (Arabic)
 - [Blog](https://halashamaly.com/blog): Arabic articles on GEO and AI search visibility
 - [ما هو GEO؟ وما الفرق بينه وبين SEO؟](https://halashamaly.com/blog/what-is-geo-vs-seo)
-- [كيف أصبحت Qoyod المصدر الذي يقتبسه ChatGPT في القوالب المحاسبية](https://halashamaly.com/blog/how-qoyod-became-the-source)
 - [ملف llms.txt: ما هو؟ وهل تحتاجه علامتك؟](https://halashamaly.com/blog/llms-txt-guide)
+- [كيف أصبحت Qoyod المصدر الذي يقتبسه ChatGPT في القوالب المحاسبية](https://halashamaly.com/blog/how-qoyod-became-the-source)
 - [GEO glossary](https://halashamaly.com/glossary): short Arabic definitions, one page per term
   - [GEO](https://halashamaly.com/glossary/geo): تحسين محركات الإجابة التوليدية
   - [AEO](https://halashamaly.com/glossary/aeo): تحسين محركات الإجابة
@@ -58,12 +58,12 @@
 
 ## Blog and glossary (English)
 - [Blog](https://halashamaly.com/en/blog): articles on GEO and AI search visibility
-- [What Is GEO? And How Is It Different From SEO?](https://halashamaly.com/en/blog/what-is-geo-vs-seo)
-- [How Qoyod Became the Source ChatGPT Cites for Accounting Templates](https://halashamaly.com/en/blog/how-qoyod-became-the-source)
-- [llms.txt: What Is It, and Does Your Brand Need One?](https://halashamaly.com/en/blog/llms-txt-guide)
-- [Does ChatGPT Mention Your Brand? A 10-Minute AI Visibility Check](https://halashamaly.com/en/blog/ai-visibility-check)
-- [Answer-First Writing: How to Structure Content So AI Can Quote It](https://halashamaly.com/en/blog/answer-first-content)
 - [Why AI Gets Your Brand Wrong, and How to Fix It](https://halashamaly.com/en/blog/why-ai-gets-your-brand-wrong)
+- [Answer-First Writing: How to Structure Content So AI Can Quote It](https://halashamaly.com/en/blog/answer-first-content)
+- [Does ChatGPT Mention Your Brand? A 10-Minute AI Visibility Check](https://halashamaly.com/en/blog/ai-visibility-check)
+- [What Is GEO? And How Is It Different From SEO?](https://halashamaly.com/en/blog/what-is-geo-vs-seo)
+- [llms.txt: What Is It, and Does Your Brand Need One?](https://halashamaly.com/en/blog/llms-txt-guide)
+- [How Qoyod Became the Source ChatGPT Cites for Accounting Templates](https://halashamaly.com/en/blog/how-qoyod-became-the-source)
 - [GEO glossary](https://halashamaly.com/en/glossary): short definitions, one page per term
   - [GEO](https://halashamaly.com/en/glossary/geo): Generative Engine Optimization
   - [AEO](https://halashamaly.com/en/glossary/aeo): Answer Engine Optimization
