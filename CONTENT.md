@@ -4,6 +4,11 @@ The blog is built from data files. One article per language = one JSON file in `
 `python3 scripts/build_blog.py` turns them into pages, the blog index, the RSS feeds, `sitemap.xml` and the article lines of `llms.txt`.
 Never edit the generated `blog/*.html`, `en/blog/*.html`, `blog.html`, `en/blog.html`, `feed.xml`, `en/feed.xml` by hand.
 
+## Scheduled publishing (current setup)
+Articles are written in advance as `content/blog/<slug>.<lang>.json` with a FUTURE `date`. The build skips any article dated after today, so it stays hidden.
+The GitHub Action `.github/workflows/daily-blog.yml` runs every day at 07:13 Riyadh time, rebuilds the site and pushes to `main`: the article dated that day goes live. One article per day, alternating Arabic and English.
+To add more: write new JSON files with the next free dates (`status` in `content/calendar.md` is `scheduled <date> <lang>`), commit and merge. To pause, disable the workflow in GitHub (Actions tab).
+
 ## PUBLISH_MODE: pr
 - `pr`: the daily routine opens a pull request and does NOT merge. The owner merges it.
 - `merge`: the routine merges its own pull request after all checks pass (the article goes live).

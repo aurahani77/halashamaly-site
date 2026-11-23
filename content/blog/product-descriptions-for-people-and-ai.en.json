@@ -1,0 +1,26 @@
+{
+ "slug": "product-descriptions-for-people-and-ai",
+ "lang": "en",
+ "date": "2026-12-01",
+ "title": "Product Descriptions for People and AI",
+ "h1": "Product descriptions for <span class=\"g\">people and AI</span>",
+ "desc": "Write product descriptions that answer what a buyer asks: what it is, who it is for, the facts that decide, and how it differs. Clear facts help people and tools.",
+ "lead": "A good product description states what the product is, who it suits and the facts that matter, before it sells. The same facts help a customer decide and help a tool describe the product correctly.",
+ "tag": "E-commerce",
+ "body": "<p>Most product descriptions are written to sound attractive. The ones that get quoted are written to be useful. When a shopper asks \"which blender is good for small families\", the useful description is the one that lets a person, or a tool, answer with confidence.</p>\n\n<h2 id=\"first\">Lead with what it is</h2>\n<p>The first sentence should name the product and say what it is for. Compare:</p>\n<p><strong>Before.</strong> \"Experience the joy of effortless blending.\"</p>\n<p><strong>After.</strong> \"The Example 600 is a 600-watt countertop blender with a 1.5-litre jug, made for smoothies, sauces and crushed ice for two to four people.\"</p>\n<p>The second sentence contains facts. They are my invented example values, so use your own real specifications.</p>\n\n<h2 id=\"facts\">Include the facts buyers compare</h2>\n<p>Think about what a buyer checks before choosing, and put those facts in plain text near the top:</p>\n<ul>\n<li>Size, weight, capacity, materials.</li>\n<li>Compatibility: what it works with.</li>\n<li>What is in the box.</li>\n<li>Warranty and return terms.</li>\n<li>Price, currency and availability, kept up to date.</li>\n</ul>\n\n<h2 id=\"table\">Use a simple specifications table</h2>\n<div class=\"tbl-wrap\"><table>\n<thead><tr><th>Field</th><th>Example value</th></tr></thead>\n<tbody>\n<tr><td>Product name (full)</td><td>Example 600 Blender</td></tr>\n<tr><td>Suitable for</td><td>2 to 4 people</td></tr>\n<tr><td>Power</td><td>600 W</td></tr>\n<tr><td>Warranty</td><td>Fill in your real terms</td></tr>\n</tbody></table></div>\n<p>A table makes comparison easy for a reader and keeps each fact next to its label.</p>\n\n<h2 id=\"names\">Write the full name</h2>\n<p>Write \"the Example 600 blender\" rather than \"it\" or \"our product\". When a sentence is quoted on its own, the pronoun has no meaning. This is the same rule I apply in all content: a passage should make sense when lifted out of its page.</p>\n\n<h2 id=\"honest\">Be honest about limits</h2>\n<p>Say who the product is not for: \"not suitable for hot liquids above 70 degrees\", if that is true. Honest limits reduce returns and build trust. Never write a claim you cannot support, such as \"the best\" or \"number one\", unless you can show the basis.</p>\n\n<h2 id=\"structure\">Structured data</h2>\n<p>Product structured data is a documented way to describe a product to machines. If you use it, the values must match what the page shows: same name, same price, same availability. Google states that no special markup is required for its AI features, so treat it as an accurate description. Read about it in the <a href=\"{root}en/glossary/schema.html\">schema</a> entry.</p>\n\n<h2 id=\"checklist\">A quick checklist before you publish</h2>\n<ol class=\"stp\">\n<li><strong>Read the first sentence alone.</strong> Does it say what the product is and who it is for?</li>\n<li><strong>Check every number.</strong> Compare each size, price and warranty term with your real data.</li>\n<li><strong>Remove empty adjectives.</strong> \"Premium\", \"amazing\" and \"high quality\" say nothing unless you add proof.</li>\n<li><strong>Look at it on a phone.</strong> Most shoppers will, and the specifications must stay readable.</li>\n<li><strong>Set a review date.</strong> Put a reminder to check the page every quarter, because outdated prices and stock status are the most common errors I find.</li>\n</ol>\n<h2 id=\"reviews\">Reviews and questions</h2>\n<p>Add real customer questions and answers near the product. They often contain the exact words buyers use. For more on writing answers that can be quoted, read <a href=\"{root}en/blog/answer-first-content.html\">answer-first content</a>.</p>\n<p>To see whether shoppers' questions mention your store at all, try the <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a>.</p>",
+ "faq": [
+  [
+   "How long should a product description be?",
+   "Long enough to state the facts a buyer needs. A short paragraph plus a specifications table is often enough."
+  ],
+  [
+   "Should I copy the supplier's description?",
+   "Avoid it. Identical text appears on many sites. Write your own using the facts you verified."
+  ],
+  [
+   "Do I need product schema?",
+   "Google says no special markup is required for its AI features. If you add it, keep every value identical to the visible page."
+  ]
+ ],
+ "alt": null
+}

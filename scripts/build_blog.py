@@ -40,6 +40,7 @@ def conv_ar(frag, p):
         at, u = m.group(1), m.group(2)
         if re.match(r'(https?:|mailto:)', u): return m.group(0)
         if u.startswith('#'): return f'{at}="{p}ar/index.html{"" if u == "#top" else u}"'
+        if u.startswith('/'): return f'{at}="{p}{u[1:]}"'
         if u.startswith('../'): return f'{at}="{p}{u[3:]}"'
         return f'{at}="{p}ar/{u}"'
     return re.sub(r'(href|src)="([^"]*)"', rep, frag)
@@ -64,6 +65,8 @@ def load():
             if k not in d: sys.exit(f"{f}: missing field {k}")
         if "—" in json.dumps(d, ensure_ascii=False): sys.exit(f"{f}: contains an em dash")
         d.setdefault("alt", None)
+        # scheduled posts: files dated in the future stay unpublished until their day
+        if d["date"] > os.environ.get("BUILD_DATE", datetime.date.today().isoformat()): continue
         posts[d["lang"]].append(d)
     for l in posts: posts[l].sort(key=lambda x: (x["date"], x["slug"]), reverse=True)
     return posts

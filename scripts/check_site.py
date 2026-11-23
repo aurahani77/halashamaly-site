@@ -34,6 +34,8 @@ for f in glob.glob(str(R / "content/blog/*.json")):
     slugs.setdefault(d.get("slug"), set()).add(d.get("lang"))
     if d.get("alt") and d["alt"] != d["slug"]: fail(f"{name}: alt must equal slug")
     for l, ok in (("blog/%s.html", d.get("lang") == "ar"), ("en/blog/%s.html", d.get("lang") == "en")):
+        import datetime
+        if d.get("date", "") > datetime.date.today().isoformat(): continue  # scheduled, not built yet
         if ok and not (R / (l % d["slug"])).exists(): fail(f"{name}: page not built, run scripts/build_blog.py")
 for slug, langs in slugs.items():
     pass

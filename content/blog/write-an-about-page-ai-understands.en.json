@@ -1,0 +1,26 @@
+{
+ "slug": "write-an-about-page-ai-understands",
+ "lang": "en",
+ "date": "2026-11-27",
+ "title": "How to Write an About Page That AI Understands",
+ "h1": "How to write an About page <span class=\"g\">AI understands</span>",
+ "desc": "Your About page is where tools learn who you are. A clear definition sentence, consistent facts and visible proof make it easier to describe you correctly.",
+ "lead": "An About page that AI understands answers five questions in plain words: who you are, what you do, where, for whom, and why people should believe you.",
+ "tag": "Content",
+ "body": "<p>The About page is the page people skip and machines read. When a tool needs to describe your business, this is often the first place it looks for a plain statement of what you are. A vague About page leaves the description to guesswork.</p>\n\n<h2 id=\"definition\">Start with one definition sentence</h2>\n<div class=\"callout\"><p>Formula: [Name] is a [category] that [does what] for [whom] in [where].</p></div>\n<p>For example: \"Example Bakery is a family bakery in Jeddah that makes custom cakes for birthdays and weddings.\" Short, specific and quotable. Write it once, then use almost the same sentence everywhere: your site, your Google Maps profile, your social bios.</p>\n<p>This is what I did with Forlanso. AI tools were calling it a freelance marketplace. I fixed one category definition, used it consistently, and added an explicit \"not a freelance marketplace\" contrast. After four weeks the four engines we tracked described it as a remote workforce management system.</p>\n\n<h2 id=\"five\">Answer five questions</h2>\n<ol class=\"stp\">\n<li><strong>Who are you?</strong> The legal or trading name, written in full and the same way every time.</li>\n<li><strong>What do you do?</strong> The services or products, in the words customers use.</li>\n<li><strong>Where?</strong> City, region or countries served, with an address if customers visit you.</li>\n<li><strong>For whom?</strong> The customers you serve best. Specific beats \"everyone\".</li>\n<li><strong>Why believe you?</strong> Years of experience, clients, certifications, results you can prove.</li>\n</ol>\n\n<h2 id=\"proof\">Show proof, not adjectives</h2>\n<p>\"Leading\", \"best\" and \"innovative\" give a reader nothing to check. Replace them with facts you can stand behind: how long you have operated, how many customers you have served, which projects you completed. Only state numbers you can verify. If you cannot prove a number, leave it out.</p>\n\n<h2 id=\"people\">Name real people</h2>\n<p>Add the founder or team, with a photo and a short role description. It makes the page more trustworthy to visitors. It also fits the idea behind <a href=\"{root}en/glossary/eeat.html\">E-E-A-T</a>: experience, expertise, authoritativeness and trust. I treat that as practice to follow, not a switch that guarantees any ranking.</p>\n\n<h2 id=\"structure\">Structure the page</h2>\n<ul>\n<li>Use a clear heading for each question you answer.</li>\n<li>Start each section with the answer in its first sentence.</li>\n<li>Write names in full instead of \"we\" and \"our solution\", because a quoted sentence loses its surrounding context.</li>\n<li>Keep contact details as visible text, not inside an image.</li>\n</ul>\n<p>If you add structured data, an Organization block is a documented way to describe your business to machines. Keep it identical to the visible text. Google says no special markup is required for its AI features, so see it as an accurate description, not a trick.</p>\n\n<h2 id=\"test\">Check that it worked</h2>\n<p>Ask two or three tools: \"What does [your business name] do?\" Compare the answer to your definition sentence. If it differs, find which page or profile says something else and fix that first. My <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a> includes direct questions about your brand for exactly this check.</p>\n<p class=\"note\">A clear About page helps tools and people understand you. It does not guarantee that you will be mentioned.</p>",
+ "faq": [
+  [
+   "How long should an About page be?",
+   "Long enough to answer the five questions with facts, usually a few short sections. Clear beats long."
+  ],
+  [
+   "Should I include prices on the About page?",
+   "Not necessarily. Keep prices on the pricing or service pages, and link to them."
+  ],
+  [
+   "Does my About page need schema?",
+   "Google says no special markup is required for its AI features. An accurate Organization block is a documented way to describe your business, as long as it matches the visible page."
+  ]
+ ],
+ "alt": null
+}
