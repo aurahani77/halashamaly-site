@@ -139,31 +139,10 @@
     <span class="eyebrow rv">التحوّل</span>
     <h2 class="rv d1">انتقل البحث من <span class="g">الروابط إلى الإجابات</span>.</h2>
     <p class="rv d2" style="color:var(--muted);font-size:18px;max-width:640px">يسأل المشترون اليوم ChatGPT وGemini وGoogle AI Overviews قبل أن ينقروا على أي رابط. وإذا لم يذكرك الذكاء الاصطناعي، فأنت غير مرئي مهما كان ترتيبك.</p>
-    <div class="sd rv d1" id="sd">
-      <div class="sd-tabs" role="tablist" aria-label="البحث قديمًا وحديثًا">
-        <button type="button" role="tab" id="sd-t-seo" aria-selected="true" aria-controls="sd-seo">SEO الكلاسيكي</button>
-        <button type="button" role="tab" id="sd-t-geo" aria-selected="false" aria-controls="sd-geo">GEO</button>
-      </div>
-      <div class="sd-stage">
-        <div class="sd-pane on" id="sd-seo" role="tabpanel" aria-labelledby="sd-t-seo">
-          <div class="sd-bar"><span class="sd-dot"></span>نماذج محاسبية السعودية</div>
-          <div class="sd-res"><i>competitor-one.com</i><b>تحميل نماذج محاسبية</b><s></s></div>
-          <div class="sd-res"><i>competitor-two.com</i><b>نماذج Excel مجانية للمحاسبين</b><s></s></div>
-          <div class="sd-res you"><span class="sd-badge">أنت في المركز 3</span><i>yourbrand.com</i><b>نماذج محاسبية للشركات السعودية</b><s></s></div>
-        </div>
-        <div class="sd-pane" id="sd-geo" role="tabpanel" aria-labelledby="sd-t-geo" hidden>
-          <div class="sd-bar"><span class="sd-dot ai"></span>نماذج محاسبية السعودية</div>
-          <div class="sd-ans">
-            <p>«لنماذج المحاسبة في السعودية، أكمل مكتبة مجانية تقدمها <mark>Qoyod</mark>، بنماذج جاهزة للفواتير والميزانية وضريبة القيمة المضافة بالعربية والإنجليزية.» <span class="cite">1</span></p>
-            <div class="sd-src"><span class="cite">1</span><div><b>qoyod.com</b><small>نماذج محاسبية · مصدر مقتبس</small></div><em>مقتبس</em></div>
-            <div class="sd-src faint"><span class="cite">2</span><div><b>competitor-one.com</b><small>في المركز الأول بالبحث الكلاسيكي</small></div><em>غير مذكور</em></div>
-          </div>
-        </div>
-      </div>
-      <div class="sd-cap">
-        <div class="sd-cap-i on" data-for="seo"><h3>تصدّر قائمة من عشرة روابط</h3><p>الكلمات المفتاحية والروابط الخلفية والمراتب. ما زالت الأساس، لكنها لم تعد خط النهاية.</p></div>
-        <div class="sd-cap-i" data-for="geo"><h3>كن المصدر الذي يقتبسه الذكاء الاصطناعي</h3><p>وضوح الكيان، ومحتوى قابل للاقتباس، والبيانات المنظمة، وllms.txt، وتتبع الاقتباسات، لتكون علامتك <em>داخل</em> الإجابة نفسها.</p></div>
-      </div>
+    <div class="shiftbar rv d1" aria-label="البحث قديمًا وحديثًا">
+      <div class="sb-i"><span class="sb-n">10</span><div><b>قبلًا: قائمة من عشرة روابط</b><small>تتصدر وتنتظر النقرة.</small></div></div>
+      <span class="sb-arrow" aria-hidden="true">&rarr;</span>
+      <div class="sb-i now"><span class="sb-n">1</span><div><b>الآن: إجابة واحدة</b><small>كن المصدر الذي تقتبسه.</small></div></div>
     </div>
   </div>
 </section>

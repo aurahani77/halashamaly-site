@@ -9,7 +9,7 @@ html[dir="rtl"] .eyebrow{text-transform:none;font-size:14px}
 html[dir="rtl"] .lockup .name small{text-transform:none;font-family:"IBM Plex Sans Arabic",var(--sans);font-size:11.5px}
 html[dir="rtl"] .hero p.lead{line-height:2}
 html[dir="rtl"] .num,html[dir="rtl"] .n,html[dir="rtl"] .win strong,html[dir="rtl"] .stat strong,html[dir="rtl"] .xp-stats strong,html[dir="rtl"] .cf-stats strong{font-family:var(--head)}
-html[dir="rtl"] .win span b,html[dir="rtl"] .tags,html[dir="rtl"] .page-badge,html[dir="rtl"] .role .when,html[dir="rtl"] .sd-badge,html[dir="rtl"] .sd-src em,html[dir="rtl"] .svc .n{font-family:"IBM Plex Sans Arabic",var(--sans);text-transform:none}
+html[dir="rtl"] .win span b,html[dir="rtl"] .tags,html[dir="rtl"] .page-badge,html[dir="rtl"] .role .when,html[dir="rtl"] .svc .n{font-family:"IBM Plex Sans Arabic",var(--sans);text-transform:none}
 html[dir="rtl"] code{direction:ltr;unicode-bidi:isolate}
 html[dir="rtl"] .rotator{direction:ltr;unicode-bidi:isolate;text-align:right}
 
@@ -27,8 +27,6 @@ html[dir="rtl"] .stat+.stat{padding-left:0;padding-right:28px;border-left:0;bord
 html[dir="rtl"] .stat strong .u{font-size:.42em;font-weight:600;margin-inline-start:.15em}
 
 /* shift demo */
-html[dir="rtl"] .sd-badge{right:auto;left:12px}
-html[dir="rtl"] .sd-src small{font-size:12px}
 
 /* process */
 html[dir="rtl"] .steps::before{background:linear-gradient(270deg,var(--mid) var(--p,0%),#D6CCF7 var(--p,0%))}
