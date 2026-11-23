@@ -549,3 +549,6 @@ footer nav{display:flex;flex-wrap:wrap;gap:6px 0;align-items:center}
 .sb-arrow{flex:none;font-size:22px;color:var(--mid)}
 html[dir="rtl"] .sb-arrow{transform:scaleX(-1)}
 @media (max-width:560px){.shiftbar{flex-direction:column;align-items:stretch;gap:10px;padding:14px 16px}.sb-arrow{align-self:center;transform:rotate(90deg)}html[dir="rtl"] .sb-arrow{transform:rotate(90deg)}}
+
+/* wider layout on large screens */
+@media (min-width:1280px){.wrap{max-width:1240px;padding:0 32px}}

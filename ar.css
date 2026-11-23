@@ -116,3 +116,25 @@ html[dir="rtl"] .rec .qm{left:auto;right:24px}
 html[dir="rtl"] .rec details summary{font-family:var(--sans)}
 html[dir="rtl"] .rec details summary:after{content:" +"}
 html[dir="rtl"] .rec details[open] summary:after{content:" −"}
+
+/* Arabic readability: larger type, wider layout */
+html[dir="rtl"] body{font-size:18px;line-height:1.9}
+html[dir="rtl"] .wrap{max-width:1280px;padding:0 36px}
+html[dir="rtl"] .nav{height:84px}
+html[dir="rtl"] .nav ul{gap:34px}
+html[dir="rtl"] .nav ul a{font-size:17px;opacity:.92}
+html[dir="rtl"] .nav .btn{font-size:16px;padding:11px 22px}
+html[dir="rtl"] .btn{font-size:17px;padding:14px 26px}
+html[dir="rtl"] .tag{font-size:15px}
+html[dir="rtl"] .eyebrow{font-size:15px}
+html[dir="rtl"] .hero p,html[dir="rtl"] .lead{font-size:19.5px}
+html[dir="rtl"] .answer{font-size:16px}
+html[dir="rtl"] .svc p,html[dir="rtl"] .case p,html[dir="rtl"] .case a.more{font-size:17px}
+html[dir="rtl"] .svc.feature li,html[dir="rtl"] .creds span,html[dir="rtl"] .win span,html[dir="rtl"] .role .co,html[dir="rtl"] .case .client{font-size:16px}
+html[dir="rtl"] .case .res span,html[dir="rtl"] .r-tags a,html[dir="rtl"] .svc .n{font-size:15px}
+html[dir="rtl"] .stat>span{font-size:17px}
+html[dir="rtl"] .skills-grid h3{font-size:18px}
+html[dir="rtl"] footer,html[dir="rtl"] footer a{font-size:16px}
+html[dir="rtl"] details summary{font-size:19px}
+html[dir="rtl"] details p{font-size:17.5px}
+@media (max-width:760px){html[dir="rtl"] body{font-size:17px}html[dir="rtl"] .wrap{padding:0 20px}}
