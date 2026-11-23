@@ -36,6 +36,11 @@
       "source": "/ar/ai-visibility-checklist.html",
       "destination": "/ar/tools/ai-visibility-checklist",
       "permanent": true
+    },
+    {
+      "source": "/2026/06/28/hello-world",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "google-ai-mode-explained",
+ "lang": "en",
+ "date": "2026-12-11",
+ "title": "What Is Google AI Mode and How to Test Your Business in It",
+ "h1": "What is <span class=\"g\">Google AI Mode</span> and how to test your business in it",
+ "desc": "Google AI Mode is a conversational search experience that answers with AI and shows source links. Learn what it is and how to check whether your business appears.",
+ "lead": "AI Mode is a conversational way to search on Google: you ask, it answers with AI, you follow up, and it shows links to sources. Here is how to find out whether your business shows up.",
+ "tag": "Google",
+ "body": "<p>I will answer in order: what it is, why it matters to you, and how to test your own business in it without paid tools.</p>\n\n<h2 id=\"what\">What is AI Mode?</h2>\n<p>It is a way of using Google where you type a full question in your own words, get an answer written by AI, and see links to the sources underneath. You can then ask a follow-up and the conversation continues. For the short definition, see <a href=\"{root}en/glossary/ai-mode.html\">AI Mode</a> in the glossary.</p>\n<p>It differs from <a href=\"{root}en/glossary/ai-overviews.html\">AI Overviews</a>, which are summaries that can appear inside normal search results for some queries. AI Mode is a conversation the user chooses to open.</p>\n\n<h2 id=\"why\">Why it matters to your business</h2>\n<p>A customer may start broad and narrow down: \"best accounting firm in Jeddah\", then \"which suits a small company?\", then \"how much does it cost?\". Every follow-up is another chance for your name to appear or not. In my work with Qoyod, I recorded that Google AI Mode listed it first for best cloud accounting software in Saudi Arabia. That was one question at one time, not a promise it will repeat for you.</p>\n\n<h2 id=\"docs\">What Google says</h2>\n<p>Per Google, a page can appear as a supporting link in these features if it is indexed and eligible to be shown with a snippet, and no special markup is needed. How links are chosen in each answer is not public, and answers can differ between users and countries.</p>\n\n<h2 id=\"test\">How to test your business in AI Mode</h2>\n<ol class=\"stp\">\n<li><strong>Write five customer questions</strong> the way customers phrase them. Example: \"What is the best family restaurant in Riyadh?\"</li>\n<li><strong>Open AI Mode</strong> from Google search if it is available for your country and account. If not, run the same questions in other AI tools.</li>\n<li><strong>Ask the question, then two follow-ups.</strong> For example \"which is cheapest?\" and \"which is closest to me?\". Note whether your name stays in the conversation.</li>\n<li><strong>Record the result</strong> in a sheet: were you mentioned, how were you described, which links appeared, and who was named instead.</li>\n<li><strong>Repeat a few days later.</strong> Answers change, so one try is not enough to judge.</li>\n</ol>\n\n<h2 id=\"improve\">What to do with the result</h2>\n<ul>\n<li><strong>Not mentioned:</strong> check that your pages are indexed, your business description is clear and consistent, and you have a page that answers the question directly.</li>\n<li><strong>Mentioned wrongly:</strong> find the page or profile saying it and correct it. I did this at Forlanso, where AI tools classified it as a freelance marketplace.</li>\n<li><strong>Mentioned correctly:</strong> keep your pages current and add answers to the likely follow-up questions.</li>\n</ul>\n\n<h2 id=\"start\">Start now</h2>\n<p>To start with ready questions for your business type, try the <a href=\"{root}tools/ai-visibility-test.html\">free visibility test</a>, which has a link to try each question in Google AI Mode. For the full Qoyod result, read the <a href=\"{root}qoyod.html\">case study</a>.</p>\n<p class=\"note\">I cannot promise that AI Mode will mention you. I can help you learn where you stand and what to improve.</p>",
+ "faq": [
+  [
+   "Is AI Mode available in every country?",
+   "Availability differs by country and account. If you cannot see it, test the same questions in other AI tools."
+  ],
+  [
+   "What is the difference between AI Mode and AI Overviews?",
+   "Overviews are summaries that can appear inside normal results for some queries. AI Mode is a conversation the user chooses and continues with follow-ups."
+  ],
+  [
+   "Do I need special markup to appear?",
+   "Google says it does not require special markup. Pages need to be indexed and eligible to show a snippet."
+  ]
+ ],
+ "alt": "google-ai-mode-explained"
+}
