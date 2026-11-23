@@ -31,7 +31,7 @@ Format: `- [status] slug | English title | Arabic title | notes`
 - [todo] refresh-old-pages-for-ai | How to Refresh an Old Page So It Can Be Quoted | كيف تحدّث صفحة قديمة لتصبح قابلة للاقتباس | Rewrite the opening, add facts, fix structure. Link: Qoyod article.
 - [todo] one-article-a-week-blog-plan | A One-Article-a-Week Blog Plan for a Small Business | خطة مدونة بمقال أسبوعي لنشاط صغير | Pick customer questions, answer-first, internal links.
 - [todo] how-to-brief-an-agency-for-geo | How to Brief an Agency or Freelancer for GEO Work | كيف تكتب طلب عمل لوكالة أو مستقل في GEO | What to ask, what to refuse (guarantees), what to measure.
-- [todo] seo-or-geo-where-to-start | SEO or GEO: Where Should a Small Budget Start? | SEO أم GEO: من أين تبدأ بميزانية صغيرة؟ | SEO is the base; GEO is a layer. Order of work. Link: what-is-geo-vs-seo.
+- [scheduled 2026-12-12 ar] seo-or-geo-where-to-start | SEO or GEO: Where Should a Small Budget Start? | SEO أم GEO: من أين تبدأ بميزانية صغيرة؟ | SEO is the base; GEO is a layer. Order of work. Link: what-is-geo-vs-seo.
 - [todo] how-a-restaurant-gets-mentioned-by-ai | How a Restaurant Gets Mentioned When Customers Ask AI: 7 Steps | كيف يُذكر مطعمك حين يسأل العملاء الذكاء الاصطناعي: 7 خطوات | Industry guide. Practice. Link: visibility test.
 - [todo] how-a-clinic-gets-mentioned-by-ai | How a Clinic Gets Mentioned When Patients Ask AI: 7 Steps | كيف تُذكر عيادتك حين يسأل المرضى الذكاء الاصطناعي: 7 خطوات | Industry guide. No medical claims. Practice.
 - [todo] how-a-real-estate-agency-gets-mentioned-by-ai | How a Real Estate Agency Gets Mentioned by AI: 7 Steps | كيف يُذكر مكتبك العقاري عند الذكاء الاصطناعي: 7 خطوات | Industry guide. Practice.
@@ -52,3 +52,4 @@ Format: `- [status] slug | English title | Arabic title | notes`
 - [todo] how-customers-reach-you-from-ai-whatsapp | From an AI Answer to a WhatsApp Message: Make It Easy to Contact You | من إجابة الذكاء الاصطناعي إلى رسالة واتساب: سهّل التواصل معك | Clear contact, WhatsApp link, hours. Practice.
 - [todo] where-to-find-the-questions-your-customers-ask | Where to Find the Questions Your Customers Ask | أين تجد الأسئلة التي يسألها عملاؤك | WhatsApp chats, calls, reviews, staff, Search Console. Link: visibility test.
 - [todo] prepare-your-content-for-ramadan | Prepare Your Business Content for Ramadan | جهّز محتوى نشاطك لرمضان | Seasonal questions, opening hours, offers; publish early. Practice.
+- [scheduled 2026-12-10 ar, 2026-12-11 en] google-ai-mode-explained | What Is Google AI Mode and How to Test Your Business in It | ما هو وضع AI من Google وكيف تختبر ظهور نشاطك فيه؟ | From Search Console queries ("وضع ai", "ai mode").
