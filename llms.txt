@@ -29,6 +29,7 @@
 
 ## Blog and glossary (Arabic)
 - [Blog](https://halashamaly.com/blog): Arabic articles on GEO and AI search visibility
+- [كيف يقرر الذكاء الاصطناعي أي نشاط يذكره؟](https://halashamaly.com/blog/how-ai-chooses-which-business-to-mention)
 - [ما هو GEO؟ وما الفرق بينه وبين SEO؟](https://halashamaly.com/blog/what-is-geo-vs-seo)
 - [ملف llms.txt: ما هو؟ وهل تحتاجه علامتك؟](https://halashamaly.com/blog/llms-txt-guide)
 - [كيف أصبحت Qoyod المصدر الذي يقتبسه ChatGPT في القوالب المحاسبية](https://halashamaly.com/blog/how-qoyod-became-the-source)
