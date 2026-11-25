@@ -59,6 +59,7 @@
 
 ## Blog and glossary (English)
 - [Blog](https://halashamaly.com/en/blog): articles on GEO and AI search visibility
+- [10 Questions to Ask ChatGPT About Your Business](https://halashamaly.com/en/blog/ten-questions-to-test-your-business-in-chatgpt)
 - [Why AI Gets Your Brand Wrong, and How to Fix It](https://halashamaly.com/en/blog/why-ai-gets-your-brand-wrong)
 - [Answer-First Writing: How to Structure Content So AI Can Quote It](https://halashamaly.com/en/blog/answer-first-content)
 - [Does ChatGPT Mention Your Brand? A 10-Minute AI Visibility Check](https://halashamaly.com/en/blog/ai-visibility-check)
