@@ -29,6 +29,7 @@
 
 ## Blog and glossary (Arabic)
 - [Blog](https://halashamaly.com/blog): Arabic articles on GEO and AI search visibility
+- [ملفك في Google Maps جزء من ظهورك بالذكاء الاصطناعي](https://halashamaly.com/blog/google-maps-profile-and-ai-answers)
 - [كيف يقرر الذكاء الاصطناعي أي نشاط يذكره؟](https://halashamaly.com/blog/how-ai-chooses-which-business-to-mention)
 - [ما هو GEO؟ وما الفرق بينه وبين SEO؟](https://halashamaly.com/blog/what-is-geo-vs-seo)
 - [ملف llms.txt: ما هو؟ وهل تحتاجه علامتك؟](https://halashamaly.com/blog/llms-txt-guide)
