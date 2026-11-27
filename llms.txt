@@ -60,6 +60,7 @@
 
 ## Blog and glossary (English)
 - [Blog](https://halashamaly.com/en/blog): articles on GEO and AI search visibility
+- [How to Write an About Page That AI Understands](https://halashamaly.com/en/blog/write-an-about-page-ai-understands)
 - [10 Questions to Ask ChatGPT About Your Business](https://halashamaly.com/en/blog/ten-questions-to-test-your-business-in-chatgpt)
 - [Why AI Gets Your Brand Wrong, and How to Fix It](https://halashamaly.com/en/blog/why-ai-gets-your-brand-wrong)
 - [Answer-First Writing: How to Structure Content So AI Can Quote It](https://halashamaly.com/en/blog/answer-first-content)
