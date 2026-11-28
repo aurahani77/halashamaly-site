@@ -29,6 +29,7 @@
 
 ## Blog and glossary (Arabic)
 - [Blog](https://halashamaly.com/blog): Arabic articles on GEO and AI search visibility
+- [هل تساعد تقييمات العملاء الذكاء الاصطناعي على ترشيحك؟](https://halashamaly.com/blog/customer-reviews-and-ai-recommendations)
 - [ملفك في Google Maps جزء من ظهورك بالذكاء الاصطناعي](https://halashamaly.com/blog/google-maps-profile-and-ai-answers)
 - [كيف يقرر الذكاء الاصطناعي أي نشاط يذكره؟](https://halashamaly.com/blog/how-ai-chooses-which-business-to-mention)
 - [ما هو GEO؟ وما الفرق بينه وبين SEO؟](https://halashamaly.com/blog/what-is-geo-vs-seo)
